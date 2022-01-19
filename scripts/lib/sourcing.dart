@@ -50,6 +50,7 @@ class Extractable {
 
   String get html => elements.map((e) => e.outerHtml).join("");
 
+  @override
   operator ==(other) {
     return other is Extractable && other.firstCourseName() == firstCourseName();
   }

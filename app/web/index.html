@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="scaffolded-by" content="https://github.com/dart-lang/sdk" />
+    <title>whichcourse</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="main.dart.js"></script>
+
+    <link rel="stylesheet" href="handbook_styles.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+      integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu"
+      crossorigin="anonymous"
+    />
+
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"
+      integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row">
+        <p class="col text-center">
+          Browse all courses listed in the UCT Science handbook (2022). Made
+          with peace by
+          <a
+            href="https://www.batandwa-mgutsi.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Batandwa Mgutsi</a
+          >. Use <code>Ctrl</code>+<code>+</code>
+          to increase font.
+        </p>
+      </div>
+
+      <div class="row">
+        <div class="input-group">
+          <input
+            type="text"
+            class="form-control"
+            id="searchQueryInput"
+            placeholder="e.g CSC1015"
+          />
+          <span class="input-group-btn">
+            <button class="btn btn-default" type="button" id="shareButton">Share</button>
+          </span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 col-sm-offset-1" id="courses">loading...</div>
+      </div>
+    </div>
+  </body>
+</html>

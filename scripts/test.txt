@@ -3,875 +3,790 @@ begin
         PRESENT
       
 close 
-        <span class="ft13">Assessment: </span>Assignments and class tests count
-        50% towards the final mark and one <nobr>3-hour</nobr> examination
-        written in November counts 50%. A <nobr>sub-minimum</nobr> of 40% is
-        required for the examination.
+        <span class="ft50">AGE1005L </span>TOWARDS A DECOLONISED SCIENCE IN
+        SOUTH AFRICA
       
 begin 
         <span class="ft50">AGE1005L </span>TOWARDS A DECOLONISED SCIENCE IN
         SOUTH AFRICA
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">AGE2011S </span>HUMAN EVOLUTION
+      
 begin 
         <span class="ft50">AGE2011S </span>HUMAN EVOLUTION
       
 close 
-        <span class="ft13">Assessment: </span>Essays and tests count 50%; one
-        <nobr>3-hour</nobr> examination in October/November counts 50%. A
-        <nobr>sub-minimum</nobr> of 40% is required for the examination.
+        <span class="ft50">AGE2012F </span>THE FIRST PEOPLE
       
 begin 
         <span class="ft50">AGE2012F </span>THE FIRST PEOPLE
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">AGE3006H </span>DIRECTED READING &amp; RESEARCH
+      
 begin 
         <span class="ft50">AGE3006H </span>DIRECTED READING &amp; RESEARCH
       
 close 
-        <span class="ft13">Assessment: </span>Essays and tests count 20%; a long
-        paper counts 40%; one <nobr>3-hour</nobr> examination in November counts
-        40%.
+        <span class="ft50">AGE3011F </span>THE ROOTS OF RECENT AFRICAN
+        IDENTITIES
       
 begin 
         <span class="ft50">AGE3011F </span>THE ROOTS OF RECENT AFRICAN
         IDENTITIES
       
 close 
-        <span class="ft118">Assessment: </span>Assignments and class tests count
-        50% towards the final mark and one <nobr>3-hour</nobr> examination
-        written in June counts 50%. A <nobr>sub-minimum</nobr> of 40% is
-        required for the examination.
+        <span class="ft50">AGE3012S </span>GLOBAL DIASPORAS &amp; THE ARCHAEOLOGY OF
+        THE HISTORICAL PAST
       
 begin 
         <span class="ft50">AGE3012S </span>GLOBAL DIASPORAS &amp; THE ARCHAEOLOGY OF
         THE HISTORICAL PAST
       
 close 
-        <span class="ft118">Assessment: </span>Assignments and class tests count
-        50% towards the final mark and one <nobr>3-hour</nobr> exam written in
-        November counts 50%. A <nobr>sub-minimum</nobr> of 40% is required for
-        the examination.
+        <span class="ft50">AGE3013H </span>ARCHAEOLOGY IN PRACTICE
       
 begin 
         <span class="ft50">AGE3013H </span>ARCHAEOLOGY IN PRACTICE
       
-close Postgraduate Courses
+close 
+        <span class="ft50">AGE4000W </span>ARCHAEOLOGY HONOURS
+      
 begin 
         <span class="ft50">AGE4000W </span>ARCHAEOLOGY HONOURS
+      
+close 
+        <span class="ft50">AGE4001W </span>ARCHAEOLOGY &amp; ENVIRONMENTAL SCIENCE
+        HONOURS
       
 begin 
         <span class="ft50">AGE4001W </span>ARCHAEOLOGY &amp; ENVIRONMENTAL SCIENCE
         HONOURS
       
 close 
-        <span class="ft13">Assessment: </span>On average the course work
-        component counts 70% (this includes 50% from final examinations) and the
-        research project counts 30%. A <nobr>sub-minimum</nobr> of 50% is
-        required for the research project. These component parts of the course
-        will be combined in a final overall mark which will be reflected against
-        the course code AGE4001W, with PA (pass) entered against the coursework
-        and project codes; each of these components must be passed separately
-        for the award of the degree.
+        <span class="ft50">AGE5000W </span>ARCHAEOLOGY DISSERTATION
       
 begin 
         <span class="ft50">AGE5000W </span>ARCHAEOLOGY DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material.
+        <span class="ft50">AGE6000W </span>ARCHAEOLOGY THESIS
       
 begin 
         <span class="ft50">AGE6000W </span>ARCHAEOLOGY THESIS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">AST1000S </span>INTRODUCTION TO ASTRONOMY
+      
 begin 
         <span class="ft50">AST1000S </span>INTRODUCTION TO ASTRONOMY
       
-close <nobr>Second-Year</nobr> Courses
+close <span class="ft50">AST2002H </span>ASTROPHYSICS
 begin <span class="ft50">AST2002H </span>ASTROPHYSICS
 close 
-        <span class="ft13">Assessment: </span>Three class tests count 25%; 6
-        compulsory tutorials/practicals including a virtual observatory project,
-        an essay and one presentation count 20%. Regular quizzes count 5%. One
-        2- hour final examination in November counts for 50%; subminimum
-        requirement of 40% for final examination.
+        <span class="ft50">AST2003H </span>ASTRONOMICAL TECHNIQUES
       
 begin 
         <span class="ft50">AST2003H </span>ASTRONOMICAL TECHNIQUES
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">AST3002F </span>STELLAR ASTROPHYSICS
+      
 begin 
         <span class="ft50">AST3002F </span>STELLAR ASTROPHYSICS
       
 close 
-        <span class="ft13">Assessment: </span>Class record 50% (this includes
-        two class tests, tutorials, and practicals); one
-        <nobr>2-hour</nobr> final examination 50%; subminimum requirement of 40%
-        for final examination.
+        <span class="ft50">AST3003S </span>GALACTIC &amp; EXTRAGALACTIC ASTROPHYSICS
       
 begin 
         <span class="ft50">AST3003S </span>GALACTIC &amp; EXTRAGALACTIC ASTROPHYSICS
       
-close Postgraduate Courses
+close 
+        <span class="ft50">AST4007W </span>ASTROPHYSICS &amp; SPACE SCIENCE HONOURS
+      
 begin 
         <span class="ft50">AST4007W </span>ASTROPHYSICS &amp; SPACE SCIENCE HONOURS
       
 close 
-        <span class="ft23">Assessment: </span>The assessment of the coursework
-        is based on the class records and examinations for each of the modules.
-        In general they are made up from tests, oral presentations, projects and
-        a final examination. Examinations count 40%, class record 40% and
-        research project 20% of the final result. The project component must be
-        passed at 50%. These component parts of the course will be combined in a
-        final overall mark which will be reflected against the course code
-        AST4007W, with PA (pass) entered against the coursework and project
-        codes; each of these components must be passed separately for the award
-        of the degree.
+        <span class="ft50">AST5000W </span>ASTRONOMY DISSERTATION
       
 begin 
         <span class="ft50">AST5000W </span>ASTRONOMY DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found at the front of the handbook.
+        <span class="ft50">AST5001W </span>ASTROPHYSICS &amp; SPACE SCIENCE MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">AST5001W </span>ASTROPHYSICS &amp; SPACE SCIENCE MINOR
         DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">AST5003F </span>ASTROPHYSICS &amp; SPACE SCIENCE
+        COURSEWORK
       
 begin 
         <span class="ft50">AST5003F </span>ASTROPHYSICS &amp; SPACE SCIENCE
         COURSEWORK
       
 close 
-        <span class="ft13">Assessment: </span>On average, examinations of
-        individual modules count 60% of the final result, and marked practical
-        work counts 40%.
+        <span class="ft50">AST5004Z </span>DATA SCIENCE FOR ASTRONOMY
       
 begin 
         <span class="ft50">AST5004Z </span>DATA SCIENCE FOR ASTRONOMY
       
 close 
-        <span class="ft118">Assessment: </span>Two projects: 25% each. Practical
-        <nobr>'take-home'</nobr> data science examination: 50%. A sub- minimum
-        of 50% for each of the projects, and examination component will be
-        required.
+        <span class="ft50">AST5005W </span>DATA SCIENCE MINOR DISSERTATION
       
 begin 
         <span class="ft50">AST5005W </span>DATA SCIENCE MINOR DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">AST6000W </span>ASTRONOMY THESIS
       
 begin 
         <span class="ft50">AST6000W </span>ASTRONOMY THESIS
       
-close <nobr>First-Year</nobr> Courses
+close <span class="ft50">BIO1000F </span>CELL BIOLOGY
 begin <span class="ft50">BIO1000F </span>CELL BIOLOGY
-close 
-        <span class="ft13">Assessment: </span>Class record counts 40% (three
-        class tests count 27%; two practical tests count 5%; and a practical
-        book mark counts 8%). One <nobr>2-hour</nobr> examination paper (Theory)
-        written in June counts 40%; a subminimum of 40% is required for this
-        paper. One <nobr>1.5-hour</nobr> examination paper (Practical) in June
-        counts 20%.
-      
+close <span class="ft50">BIO1000H </span>CELL BIOLOGY
 begin <span class="ft50">BIO1000H </span>CELL BIOLOGY
 close 
-        <span class="ft13">Assessment: </span>Class record counts 40% (three
-        class tests count 27%; two practical tests count 5%; and a practical
-        book mark counts 8%). One <nobr>2-hour</nobr> examination paper (Theory)
-        written in November counts 40%; a subminimum of 40% is required for this
-        paper. One <nobr>1.5-hour</nobr> examination paper (Practical) in
-        November counts 20%.
+        <span class="ft50">BIO1004S </span>BIOLOGICAL DIVERSITY
       
 begin 
         <span class="ft50">BIO1004S </span>BIOLOGICAL DIVERSITY
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">BIO2014F </span>PRINCIPLES OF ECOLOGY &amp; EVOLUTION
+      
 begin 
         <span class="ft50">BIO2014F </span>PRINCIPLES OF ECOLOGY &amp; EVOLUTION
       
 close 
-        course mark. The class record, which counts for the balance, is made up
-        as follows: practicals count 20%, the field camp report counts 20% and
-        two class tests count 20%.
+        <span class="ft50">BIO2015F </span>VERTEBRATE DIVERSITY &amp; FUNCTIONAL
+        BIOLOGY
       
 begin 
         <span class="ft50">BIO2015F </span>VERTEBRATE DIVERSITY &amp; FUNCTIONAL
         BIOLOGY
       
 close 
-        50% of the course mark. Coursework marks will be allocated as follows:
-        practical classes (eight deliverables) count 15%, project report based
-        on field camp data counts 15%, two class tests together count 20%.
+        <span class="ft50">BIO2016S </span>INVERTEBRATE DIVERSITY &amp; FUNCTIONAL
+        BIOLOGY
       
 begin 
         <span class="ft50">BIO2016S </span>INVERTEBRATE DIVERSITY &amp; FUNCTIONAL
         BIOLOGY
       
 close 
-        50% of the course mark. Coursework marks will be allocated as follows:
-        practicals count 15%, the field camp report counts 15% and two class
-        tests count 20%.
+        <span class="ft50">BIO2017S </span>PLANT DIVERSITY AND FUNCTIONAL
+        BIOLOGY
       
 begin 
         <span class="ft50">BIO2017S </span>PLANT DIVERSITY AND FUNCTIONAL
         BIOLOGY
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">BIO3002F </span>MARINE ECOSYSTEMS
+      
 begin 
         <span class="ft50">BIO3002F </span>MARINE ECOSYSTEMS
       
 close 
-        of the course. The class record will count 50% of the course mark,
-        allocated as follows: practical classes (assessed weekly) count 15%;
-        assignments count 20%; class tests count 15%.
+        <span class="ft50">BIO3013F </span>GLOBAL CHANGE ECOLOGY
       
 begin 
         <span class="ft50">BIO3013F </span>GLOBAL CHANGE ECOLOGY
       
 close 
-        50% of the course. Coursework marks will be allocated as follows:
-        Practical classes (assessed weekly) count 15%; research project counts
-        20%; class tests count 15%.
+        <span class="ft50">BIO3014S </span>CONSERVATION: GENES, POPULATION &amp;
+        BIODIVERSITY
       
 begin 
         <span class="ft50">BIO3014S </span>CONSERVATION: GENES, POPULATION &amp;
         BIODIVERSITY
       
+close 
+        <span class="ft50">BIO3017S </span>MARINE RESOURCES
+      
 begin 
         <span class="ft50">BIO3017S </span>MARINE RESOURCES
       
 close 
-        for 50% of the course. Coursework marks will be allocated as follows:
-        Practical classes count 10%; project work counts 20%; two essays count
-        20%.
+        <span class="ft50">BIO3018F </span>ECOLOGY &amp; EVOLUTION
       
 begin 
         <span class="ft50">BIO3018F </span>ECOLOGY &amp; EVOLUTION
       
+close 
+        <span class="ft50">BIO3019S </span>QUANTITATIVE BIOLOGY
+      
 begin 
         <span class="ft50">BIO3019S </span>QUANTITATIVE BIOLOGY
       
-close Postgraduate Courses
+close 
+        <span class="ft50">BIO4000W </span>BIOLOGICAL SCIENCES HONOURS
+      
 begin 
         <span class="ft50">BIO4000W </span>BIOLOGICAL SCIENCES HONOURS
       
 close 
-        <span class="ft101">Assessment: </span>Two
-        <nobr>3-hour</nobr> examinations written in November count 20%; project
-        and research seminar count 40%; compulsory coursework counts 20%;
-        elective coursework counts 20%. These component parts of the course will
-        be combined in a final overall mark which will be reflected against the
-        course code BIO4000W, with PA (pass) entered against the coursework and
-        project codes; each of these components must be passed separately for
-        the award of the degree.
+        <span class="ft50">BIO4001W </span>MARINE BIOLOGY HONOURS
       
 begin 
         <span class="ft50">BIO4001W </span>MARINE BIOLOGY HONOURS
       
 close 
-        <span class="ft23">Assessment: </span>Two
-        <nobr>3-hour</nobr> examinations written in November count 20%; project
-        and research seminar count 40%; compulsory coursework counts 20%;
-        elective coursework counts 20%. These component parts of the course will
-        be combined in a final overall mark which will be reflected against the
-        course code BIO4001W, with PA (pass) entered against the coursework and
-        project codes; each of these components must be passed separately for
-        the award of the degree.
+        <span class="ft50">BIO5007H </span>CONSERVATION BIOLOGY COURSEWORK
       
 begin 
         <span class="ft50">BIO5007H </span>CONSERVATION BIOLOGY COURSEWORK
       
 close 
-        <span class="ft13">Assessment: </span>Each student receives a mark for
-        each of the modules, and the modules are examined in groups during
-        <nobr>'open-book'</nobr> examinations.
+        <span class="ft50">BIO5008W </span>CONSERVATION BIOLOGY MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">BIO5008W </span>CONSERVATION BIOLOGY MINOR
         DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">BIO5009W </span>CONSERVATION BIOLOGY DISSERTATION
       
 begin 
         <span class="ft50">BIO5009W </span>CONSERVATION BIOLOGY DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found at the front of this handbook.
+        <span class="ft50">BIO5010W </span>BIOLOGICAL SCIENCES DISSERTATION
       
 begin 
         <span class="ft50">BIO5010W </span>BIOLOGICAL SCIENCES DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found at the front of the handbook.
+        <span class="ft50">BIO5012W </span>APPLIED OCEAN SCIENCES COURSEWORK
       
 begin 
         <span class="ft50">BIO5012W </span>APPLIED OCEAN SCIENCES COURSEWORK
       
 close 
-        <span class="ft13">Assessment: </span>Students must pass all coursework
-        components with a subminimum of 40% for the fundamental course BIO5013F
-        and the disciplinary courses (BIO5014F and SEA5011F); an aggregate
-        coursework mark of 50% is required. A composite grade of the performance
-        on the coursework component as a whole will be reflected against the
-        assessment course code BIO5012W. The minor dissertation component is 50%
-        of the degree. The choice of project for the minor dissertation will be
-        determined by prior qualification with the course conveners and
-        supervisors from other Departments. Students may register for a minor
-        dissertation in a range of Departments across the University.
+        <span class="ft50">BIO5013F </span>FUNDAMENTALS OF APPLIED OCEAN
+        SCIENCES
       
 begin 
         <span class="ft50">BIO5013F </span>FUNDAMENTALS OF APPLIED OCEAN
         SCIENCES
       
 close 
-        <span class="ft13">Assessment: </span>Every module is assessed
-        independently either with a class test or individual project
-        assignments. The syllabus and the relative weight for each module are
-        described in a handbook that will be made available on the BIO5012W
-        website (hosted by the Marine and Antarctic Research Centre for
-        Innovation and Sustainability).
+        <span class="ft50">BIO5014F </span>APPLIED MARINE BIOLOGY
       
 begin 
         <span class="ft50">BIO5014F </span>APPLIED MARINE BIOLOGY
+      
+close 
+        <span class="ft50">BIO5015W </span>APPLIED OCEAN SCIENCES MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">BIO5015W </span>APPLIED OCEAN SCIENCES MINOR
         DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">BIO6002W </span>CONSERVATION BIOLOGY THESIS
       
 begin 
         <span class="ft50">BIO6002W </span>CONSERVATION BIOLOGY THESIS
       
+close 
+        <span class="ft50">BIO6003W </span>BIOLOGICAL SCIENCES THESIS
+      
 begin 
         <span class="ft50">BIO6003W </span>BIOLOGICAL SCIENCES THESIS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">CEM1000W </span>CHEMISTRY 1000
+      
 begin 
         <span class="ft50">CEM1000W </span>CHEMISTRY 1000
       
 close 
-        <span class="ft13">Assessment: </span>Class record (comprising tests,
-        tutorials and practicals) counts 50%; one
-        <nobr>3-hour</nobr> examination written in November counts 50%. A
-        subminimum of 40% is required in the final examination.
+        <span class="ft50">CEM1009H </span>CHEMISTRY 1009
       
 begin 
         <span class="ft50">CEM1009H </span>CHEMISTRY 1009
       
 close 
-        <span class="ft13">Assessment: </span>Class record (comprising tests,
-        tutorials and practicals) counts 50%; one
-        <nobr>2-hour</nobr> examination written in November counts 50%. A
-        subminimum of 50% is required in the final examination.
+        <span class="ft50">CEM1010H </span>CHEMISTRY 1010
       
 begin 
         <span class="ft50">CEM1010H </span>CHEMISTRY 1010
       
 close 
-        CEM2005W is required for students proceeding to a major in Chemistry.
+        <span class="ft50">CEM2005W </span>INTERMEDIATE CHEMISTRY
       
 begin 
         <span class="ft50">CEM2005W </span>INTERMEDIATE CHEMISTRY
       
 close 
-        CEM3005W is the required course for students completing a major in
-        Chemistry.
+        <span class="ft50">CEM3005W </span>CHEMISTRY 3005
       
 begin 
         <span class="ft50">CEM3005W </span>CHEMISTRY 3005
       
-close Postgraduate Courses
+close 
+        <span class="ft50">CEM4000W </span>CHEMISTRY HONOURS
+      
 begin 
         <span class="ft50">CEM4000W </span>CHEMISTRY HONOURS
       
 close 
-        <span class="ft23">Assessment: </span>Examinations count 33%, coursework
-        26% and the Honours research project 41%. To pass the Honours course
-        candidates must obtain an overall average of 50%, an average of 45% for
-        the Core Course written examinations with a subminimum of 33% on each
-        individual paper of the Core Course examinations. In addition,
-        candidates must attain at least 50% for the research project, 45% for
-        the Modern Instrumental Methods and Group Theory module, complete all
-        practical work, tutorial assignments, generic skills course and any
-        other compulsory activities. These component parts of the course will be
-        combined in a final overall mark which will be reflected against the
-        course code CEM4000W, with PA (pass) entered against the coursework and
-        project codes; each of these components must be passed separately for
-        the award of the degree.
+        <span class="ft50">CEM5000W </span>CHEMISTRY DISSERTATION
       
 begin 
         <span class="ft50">CEM5000W </span>CHEMISTRY DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found at the front of the handbook.
+        <span class="ft50">CEM5002W </span>COMPUTATIONAL SCIENCE DISSERTATION
       
 begin 
         <span class="ft50">CEM5002W </span>COMPUTATIONAL SCIENCE DISSERTATION
       
 close 
-        The academic disciplines of chemistry, chemical biology and biophysics
-        have a critical dependence on computer simulation and large scale data
-        analysis to understand observed phenomena and advance the frontiers of
-        disciplinary knowledge. This course aims to prepare students to
-        undertake research in computational science as applied to chemistry,
-        chemical biology, biophysics and chemical physics. The two streams of
-        focus are computation and informatics. The course will commence with
-        project assignment followed by a combination of
-        <nobr>in-house</nobr> and online short training
-        <nobr>(non-credit)</nobr> courses in: Scientific Computing, High
-        Performance Computing, Computational Methods for Data Analysis, Data
-        Management, R Programming, Quantum Mechanics and Statistical Mechanics.
-        The above short training courses are designed to prepare students to
-        successfully complete a computational science project and dissertation.
+        <span class="ft50">CEM5004W </span>TERTIARY CHEMISTRY EDUCATION
+        DISSERTATION
       
 begin 
         <span class="ft50">CEM5004W </span>TERTIARY CHEMISTRY EDUCATION
         DISSERTATION
       
 close 
-        understanding of the scientific principles underlying the research and
-        an appropriate acquaintance with the relevant literature. It must be
-        clearly presented and conform to the standards of the department and
-        faculty. The dissertation will usually consist of a report detailing the
-        conduct and analysis of the results of research performed under the
-        close guidance of a suitably qualified supervisor/s. The dissertation
-        should be <nobr>well-conceived</nobr> and acknowledge earlier research
-        in the field. It should demonstrate the ability to undertake a
-        substantial and informed piece of research, and to collect, organise and
-        analyse material. General rules for this degree may be found at the
-        front of the handbook.
+        <span class="ft50">CEM6000W </span>CHEMISTRY THESIS
       
 begin 
         <span class="ft50">CEM6000W </span>CHEMISTRY THESIS
       
+close 
+        <span class="ft50">CEM6001W </span>TERTIARY CHEMISTRY EDUCATION THESIS
+      
 begin 
         <span class="ft50">CEM6001W </span>TERTIARY CHEMISTRY EDUCATION THESIS
+      
+close 
+        <span class="ft50">CEM6002W </span>COMPUTATIONAL SCIENCE THESIS
       
 begin 
         <span class="ft50">CEM6002W </span>COMPUTATIONAL SCIENCE THESIS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">CSC1010H </span>COMPUTER SCIENCE 1010
+      
 begin 
         <span class="ft50">CSC1010H </span>COMPUTER SCIENCE 1010
       
 close 
-        hour examination written in November counts 60%. Subminima: 45% for
-        practicals, 45% on weighted average of theory tests and examination.
+        <span class="ft50">CSC1011H </span>COMPUTER SCIENCE 1011
       
 begin 
         <span class="ft50">CSC1011H </span>COMPUTER SCIENCE 1011
       
 close 
-        hour examination written in November counts 50%. Subminima: 45% for
-        practicals, 45% on weighted average of theory tests and examination.
+        <span class="ft50">CSC1015F/S </span>COMPUTER SCIENCE 1015
       
 begin 
         <span class="ft50">CSC1015F/S </span>COMPUTER SCIENCE 1015
       
 close 
-        hours 60%. Subminima: 45% for practicals, 45% on weighted average of
-        theory tests and examination.
+        <span class="ft50">CSC1016S </span>COMPUTER SCIENCE 1016
       
 begin 
         <span class="ft50">CSC1016S </span>COMPUTER SCIENCE 1016
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">CSC2001F </span>COMPUTER SCIENCE 2001
+      
 begin 
         <span class="ft50">CSC2001F </span>COMPUTER SCIENCE 2001
       
 close 
-        50%. Subminima: 45% on weighted average of theory tests and examination.
+        <span class="ft50">CSC2002S </span>COMPUTER SCIENCE 2002
       
 begin 
         <span class="ft50">CSC2002S </span>COMPUTER SCIENCE 2002
       
 close 
-        written in November counts 50%. Subminima: 45% on weighted average of
-        theory tests and examination.
+        <span class="ft50">CSC2004Z </span>PROGRAMMING ASSESSMENT
       
 begin 
         <span class="ft50">CSC2004Z </span>PROGRAMMING ASSESSMENT
       
 close 
-        <span class="ft13">Assessment: </span>Practical programming examination
-        counts for 100%
+        <span class="ft50">CSC2005Z </span>INDEPENDENT RESEARCH IN COMPUTER
+        SCIENCE
       
 begin 
         <span class="ft50">CSC2005Z </span>INDEPENDENT RESEARCH IN COMPUTER
         SCIENCE
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">CSC3002F </span>COMPUTER SCIENCE 3002
+      
 begin 
         <span class="ft50">CSC3002F </span>COMPUTER SCIENCE 3002
       
 close 
-        50%. Subminima: 45% for practicals; 45% on weighted average of theory
-        tests and examinations.
+        <span class="ft50">CSC3003S </span>COMPUTER SCIENCE 3003
       
 begin 
         <span class="ft50">CSC3003S </span>COMPUTER SCIENCE 3003
       
 close 
-        counts 50%. Subminima: 45% for practicals, 45% on weighted average of
-        theory tests and 35% for the algorithms module (comprising Theory of
-        Algorithms and Theory of Computation) in the final examination.
+        <span class="ft50">CSC3022F </span>C++ AND MACHINE LEARNING
       
 begin 
         <span class="ft50">CSC3022F </span>C++ AND MACHINE LEARNING
       
 close 
-        <span class="ft13">Progression: </span>While it is expected that all
-        students will complete the degree in a single academic year, students
-        may be allowed to complete missing credits in a second year, with
-        permission from the Dean.
+        <span class="ft50">CSC4002W </span>COMPUTER SCIENCE HONOURS PROJECT
       
 begin 
         <span class="ft50">CSC4002W </span>COMPUTER SCIENCE HONOURS PROJECT
       
 close 
-        This course is the compulsory research project component of a Computer
-        Science Honours degree. The research project comprises a large project
-        run over the course of the year under academic supervision, with a final
-        <nobr>mini-dissertation</nobr> and other project deliverables.
+        <span class="ft50">CSC4007Z </span>SELECTED HONOURS MODULE IN COMPUTER
+        SCIENCE
       
 begin 
         <span class="ft50">CSC4007Z </span>SELECTED HONOURS MODULE IN COMPUTER
         SCIENCE
       
 close 
-        <span class="ft13">Assessment: </span>Exam: 50% and Coursework: 50%
+        <span class="ft50">CSC4010Z </span>ADVANCED TOPICS IN COMPUTER SCIENCE
+        HONOURS 2
       
 begin 
         <span class="ft50">CSC4010Z </span>ADVANCED TOPICS IN COMPUTER SCIENCE
         HONOURS 2
       
 close 
-        <span class="ft13">Assessment: </span>Exam: 50% and Coursework: 50%
+        <span class="ft50">CSC4018W </span>INFORMATION TECHNOLOGY HONOURS
+        PROJECT
       
 begin 
         <span class="ft50">CSC4018W </span>INFORMATION TECHNOLOGY HONOURS
         PROJECT
       
+close 
+        <span class="ft50">CSC4019Z </span>RESEARCH &amp; INNOVATION
+      
 begin 
         <span class="ft50">CSC4019Z </span>RESEARCH &amp; INNOVATION
       
 close 
-        <span class="ft13">Assessment: </span>The practical aspects of the work
-        will be evaluated through: a series of 4 NVP assignments
-        (10%/15%/35%/40%), culminating in a business plan; Professional
-        Communications course (25%); and a submitted literature review for the
-        project (35%) and the project proposal (40%). NVP and PCU+RM are equally
-        weighted.
+        <span class="ft50">CSC4020Z </span>FUNCTIONAL PROGRAMMING
       
 begin 
         <span class="ft50">CSC4020Z </span>FUNCTIONAL PROGRAMMING
       
-close 
-        <span class="ft13">Assessment: </span>Final examination: 60%; Practical
-        assignments: 40%
-      
+close <span class="ft50">CSC4021Z </span>COMPILERS 1
 begin <span class="ft50">CSC4021Z </span>COMPILERS 1
-close 
-        <span class="ft13">Assessment: </span>Final examination: 60%; Practical
-        assignments: 40%
-      
+close <span class="ft50">CSC4022Z </span>COMPILERS 2
 begin <span class="ft50">CSC4022Z </span>COMPILERS 2
 close 
-        <span class="ft13">Assessment: </span>Final examination: 60%; Practical
-        assignments: 40%
+        <span class="ft50">CSC4023Z </span>BIG DATA MANAGEMENT &amp; ANALYSIS
       
 begin 
         <span class="ft50">CSC4023Z </span>BIG DATA MANAGEMENT &amp; ANALYSIS
       
 close 
-        <span class="ft13">Assessment: </span>Final examination: 60%; Practical
-        assignments: 40%
+        <span class="ft50">CSC4024Z </span>HUMAN COMPUTER INTERACTION
       
 begin 
         <span class="ft50">CSC4024Z </span>HUMAN COMPUTER INTERACTION
+      
+close 
+        <span class="ft50">CSC4025Z </span>ARTIFICIAL INTELLIGENCE
       
 begin 
         <span class="ft50">CSC4025Z </span>ARTIFICIAL INTELLIGENCE
       
 close 
-        <span class="ft13">Assessment: </span>Final examination: 60%; Practical
-        assignments: 40%
+        <span class="ft50">CSC4026Z </span>NETWORK &amp; INTERNETWORK SECURITY
       
 begin 
         <span class="ft50">CSC4026Z </span>NETWORK &amp; INTERNETWORK SECURITY
       
 close 
-        <span class="ft13">Assessment: </span>Final examination: 60%; Practical
-        assignments: 40%
+        <span class="ft50">CSC4027Z </span>COMPUTER GAME DESIGN
       
 begin 
         <span class="ft50">CSC4027Z </span>COMPUTER GAME DESIGN
       
 close 
-        <span class="ft13">Assessment: </span>Final examination: 60%; Practical
-        assignments: 40%
+        <span class="ft50">CSC4028Z </span><nobr>HIGH-PERFORMANCE</nobr> COMPUTING
       
 begin 
         <span class="ft50">CSC4028Z </span><nobr>HIGH-PERFORMANCE</nobr> COMPUTING
       
 close 
-        <span class="ft13">Assessment: </span>Assignments (50%), Exam (50%).
-        Subminima of 45% for both exam and the assignments.
+        <span class="ft50">CSC4029Z </span>INTRODUCTION TO COMPUTER GRAPHICS
       
 begin 
         <span class="ft50">CSC4029Z </span>INTRODUCTION TO COMPUTER GRAPHICS
       
 close 
-        Master's specialising in Computer Science by Dissertation
+        <span class="ft50">CSC5000W </span>COMPUTER SCIENCE DISSERTATION
       
 begin 
         <span class="ft50">CSC5000W </span>COMPUTER SCIENCE DISSERTATION
       
 close 
-        well as four of the six elective courses may be permitted to register
-        for CSC5002W/CSC5037W. Students are not eligible to register for
-        CSC5002W/CSC5037W until they have completed the Research Methods course
-        and at least four (out of six) elective courses.
+        <span class="ft50">CSC5002W </span>COMPUTER SCIENCE MINOR DISSERTATION
       
 begin 
         <span class="ft50">CSC5002W </span>COMPUTER SCIENCE MINOR DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">CSC5037W </span>ARTIFICIAL INTELLIGENCE MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">CSC5037W </span>ARTIFICIAL INTELLIGENCE MINOR
         DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">CSC5008Z </span>DATA VISUALISATION
       
 begin 
         <span class="ft50">CSC5008Z </span>DATA VISUALISATION
+      
+close 
+        <span class="ft50">CSC5020Z </span>RESEARCH METHODS IN COMPUTER SCIENCE
       
 begin 
         <span class="ft50">CSC5020Z </span>RESEARCH METHODS IN COMPUTER SCIENCE
       
 close 
-        <span class="ft13">Assessment: </span>A submitted literature review
-        (50%) and research proposal (50%).
+        <span class="ft50">CSC5021Z </span>COMPUTATIONAL GEOMETRY FOR 3D
+        PRINTING
       
 begin 
         <span class="ft50">CSC5021Z </span>COMPUTATIONAL GEOMETRY FOR 3D
         PRINTING
       
 close 
-        <span class="ft13">Assessment: </span>Final examination: 60%; Practical
-        assignments: 40%
+        <span class="ft50">CSC5023Z </span>EVOLUTIONARY COMPUTATION
       
 begin 
         <span class="ft50">CSC5023Z </span>EVOLUTIONARY COMPUTATION
       
 close 
-        <span class="ft13">Assessment: </span>Exam: closed book, 2 hours, 60%;
-        Practical assignment: 40%.
+        <span class="ft50">CSC5024Z </span>INFORMATION RETRIEVAL
       
 begin 
         <span class="ft50">CSC5024Z </span>INFORMATION RETRIEVAL
       
 close 
-        <span class="ft13">Assessment: </span>Exam
-        <nobr>(take-home):</nobr> 40%; Assignments: 40%; Class participation:
-        20%
+        <span class="ft50">CSC5025Z </span>INTELLIGENT SYSTEMS
       
 begin 
         <span class="ft50">CSC5025Z </span>INTELLIGENT SYSTEMS
       
 close 
-        <span class="ft13">Assessment: </span>2 hour open book exam: 50%,
-        Practical assignments: 50%
+        <span class="ft50">CSC5026Z </span>INTRODUCTION TO ICT FOR DEVELOPMENT
       
 begin 
         <span class="ft50">CSC5026Z </span>INTRODUCTION TO ICT FOR DEVELOPMENT
       
 close 
-        <span class="ft13">Assessment: </span>Practical assignments: 80%; Case
-        Study Presentation: 10%; Class Participation: 10%
+        <span class="ft50">CSC5027Z </span>LOGICS FOR ARTIFICIAL INTELLIGENCE
       
 begin 
         <span class="ft50">CSC5027Z </span>LOGICS FOR ARTIFICIAL INTELLIGENCE
       
 close 
-        <span class="ft13">Assessment: </span>Exam: open book, 3 hours, 50%;
-        Assignments: 50%.
+        <span class="ft50">CSC5028Z </span>ONTOLOGY ENGINEERING
       
 begin 
         <span class="ft50">CSC5028Z </span>ONTOLOGY ENGINEERING
       
 close 
-        <span class="ft13">Assessment: </span>Exam <nobr>(closed-book</nobr> but
-        with some material provided) - 50%, assignments - 50%.
+        <span class="ft50">CSC5029Z </span>INTRODUCTION TO IMAGE PROCESSING AND
+        COMPUTER VISION
       
 begin 
         <span class="ft50">CSC5029Z </span>INTRODUCTION TO IMAGE PROCESSING AND
         COMPUTER VISION
       
-close Final Mark: Exam 40%, Class Record 60%.
+close 
+        <span class="ft50">CSC5030Z </span>ADVANCED TOPICS IN COMPUTER SCIENCE
+        MASTER'S 1
+      
 begin 
         <span class="ft50">CSC5030Z </span>ADVANCED TOPICS IN COMPUTER SCIENCE
         MASTER'S 1
+      
+close 
+        <span class="ft50">CSC5031Z </span>ADVANCED TOPICS IN COMPUTER SCIENCE
+        MASTER'S 2
       
 begin 
         <span class="ft50">CSC5031Z </span>ADVANCED TOPICS IN COMPUTER SCIENCE
         MASTER'S 2
       
 close 
-        <span class="ft13">Assessment: </span>Exam: 50% and Coursework: 50%
+        <span class="ft50">CSC5032Z </span>NETWORKS &amp; INTERNET SYSTEMS
       
 begin 
         <span class="ft50">CSC5032Z </span>NETWORKS &amp; INTERNET SYSTEMS
       
-close Exam : 40%
+close 
+        <span class="ft50">CSC5033Z </span>HUMAN COMPUTER INTERACTION
+      
 begin 
         <span class="ft50">CSC5033Z </span>HUMAN COMPUTER INTERACTION
       
 close 
-        <span class="ft13">Assessment: </span>Participation: 10% (measured by
-        participation in user studies, <nobr>in-class</nobr> activities, in-
-        class discussion/presentations, and <nobr>pre-class</nobr> quizzes on
-        Vula) Individual Practical Assessments: 20%. Group Project Assessments:
-        40% Final Exam : 30%
+        <span class="ft50">CSC5034Z </span>MACHINE LEARNING
       
 begin 
         <span class="ft50">CSC5034Z </span>MACHINE LEARNING
       
 close 
-        <span class="ft13">Assessment: </span>Practical work counts 50%;
-        examination counts 50%.
+        <span class="ft50">CSC5035Z </span>NATURAL LANGUAGE PROCESSING
       
 begin 
         <span class="ft50">CSC5035Z </span>NATURAL LANGUAGE PROCESSING
       
 close 
-        <span class="ft13">Assessment: </span>Exam
-        <nobr>(take-home):</nobr> 50%; Assignments: 50%.
+        <span class="ft50">CSC5036Z </span>VIRTUAL REALITY
       
 begin 
         <span class="ft50">CSC5036Z </span>VIRTUAL REALITY
       
 close 
-        <span class="ft13">Progression: </span>Students should pass a minimum of
-        three courses each year. Should a student fail any course on the second
-        attempt, they will not be allowed to continue with their studies.
-        Students are eligible to register for CSC5004W once they have passed 7
-        of the 8 courses.
+        <span class="ft50">CSC5004W </span>INFORMATION TECHNOLOGY MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">CSC5004W </span>INFORMATION TECHNOLOGY MINOR
         DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">CSC5005H </span>INFORMATION TECHNOLOGY COURSEWORK
+        PART 1
       
 begin 
         <span class="ft50">CSC5005H </span>INFORMATION TECHNOLOGY COURSEWORK
         PART 1
       
 close 
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbMAAAJxCAIAAABHR8vyAAAHeUlEQVR4nO3XoRHAMAwEwTj996zwAzG0wW4Fj26kNTMPAAD8WG5GgHhPDwC4jjIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDIClDICALCzZub0BoC7+KYBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBShkBANhZM3N6A8BdfNMApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwApYwAAOx8nLcQyxMX7KIAAAAASUVORK5CYII=" id="p116img1">
+        <p class="p722 ft13">DEPARTMENTS IN THE FACULTY 115</p>
+        <p class="p723 ft117">
+          <span class="ft50">CSC5006H </span>INFORMATION TECHNOLOGY COURSEWORK
+          PART 2
+        </p>
+        <p class="p94 ft39">Not offered to new students after 2017.</p>
+        <p class="p94 ft12">45 NQF credits at NQF level 9</p>
+        <p class="p94 ft9">
+          <span class="ft14">Convener: </span>Associate Professor M Densmore
+        </p>
+        <p class="p94 ft9">
+          <span class="ft14">Course entry requirements: </span>An Honours degree
+          or <nobr>4-year</nobr> equivalent plus access to the Internet.
+        </p>
+        <p class="p94 ft14">Course outline:</p>
+        <p class="p504 ft10">
+          CSC5005H and CSC5006H together constitute the coursework component.
+          CSC5005H comprises 4 modules selected from the following:
+          <nobr>Object-oriented</nobr> programming;
+          <nobr>Human-Computer</nobr> Interaction; Databases; Networks; Web
+          Programming; Software Engineering; Cyberlaw and Ethics; Research
+          Methods. CSC5006H comprises the remaining 4 modules, i.e. excluding
+          modules for which credit was received in CSC5005H. All study is via
+          <nobr>on-line</nobr> <nobr>self-study</nobr> materials.
+        </p>
+        <p class="p89 ft12">
+          <span class="ft13">DP requirements: </span>A subminimum of 40% average
+          for the assignment of at least 3 modules and an average of at least
+          40% in the <nobr>mid-year</nobr> examinations.
+        </p>
+        <p class="p89 ft12">
+          <span class="ft13">Assessment: </span>In CSC5005H and CSC5006H
+          assignments count 30% and the examination 70%. A subminimum of 40% for
+          examinations is required in each of CSC5005H and CSC5006H. A module
+          can be repeated once only; two unsuccessful attempts constitute a
+          fail. A student who accumulates two failed modules will not be
+          permitted to continue. To pass each course an overall average of at
+          least 50% is required.
+        </p>
+        <p class="p109 ft117">
+          <span class="ft50">CSC5010Z </span>MIT: COMPUTER NETWORKS
+        </p>
+        <p class="p94 ft3">12 NQF credits at NQF level 9</p>
+        <p class="p94 ft9">
+          <span class="ft14">Convener: </span>Associate Professor M Densmore
+        </p>
+        <p class="p89 ft9">
+          <span class="ft14">Course entry requirements: </span>Admission into
+          the Master’s degree specialising in IT, or permission from the course
+          convenor.
+        </p>
+        <p class="p94 ft13">Course outline:</p>
+        <p class="p89 ft9">
+          In the course, a framework for describing the operation of computer
+          networks is developed. Within this framework, we start with the
+          operation of <nobr>local-area</nobr> networks,
+          <nobr>packet-switched</nobr> networks and the Internet. After this,
+          the module moves to the uses made of these networks, concentrating on
+          business applications. The effect on organisations of introducing such
+          networked applications is also examined.
+        </p>
+        <p class="p94 ft3">
+          <span class="ft13">DP requirements: </span>40% for assignment
+          component.
+        </p>
+        <p class="p89 ft3">
+          <span class="ft13">Assessment: </span>Final examination: 70%;
+          Practical assignments: 30%. A <nobr>sub-minimum</nobr> of 40% will be
+          required for each of the assignment and exam components of the course.
+        </p>
+        <p class="p109 ft117">
+          <span class="ft50">CSC5011Z </span>MIT:
+          <nobr>OBJECT-ORIENTED</nobr> PROGRAMMING IN PYTHON
+        </p>
+        <p class="p94 ft3">12 NQF credits at NQF level 9</p>
+        <p class="p94 ft9">
+          <span class="ft14">Convener: </span>Associate Professor M Densmore
+        </p>
+        <p class="p89 ft9">
+          <span class="ft14">Course entry requirements: </span>Admission into
+          the Master's degree specialising in IT, or permission from the course
+          convenor.
+        </p>
+        <p class="p94 ft13">Course outline:</p>
+        <p class="p89 ft9">
+          The underlying aim of all courses is to develop a foundation in key
+          topics related to the application of computer hardware and software in
+          solving practical problems. This is a basic introduction to
+          <nobr>object-oriented</nobr> programming in a modern language, namely,
+          Python. Python is becoming increasingly popular as an effective means
+          of introducing programming concepts to those who are new to
+          programming. Students will be taught how to create simple applications
+          in the Python language.
+        </p>
+        <p class="p94 ft12">
+          <span class="ft13">DP requirements: </span>40% for assignment
+          component.
+        </p>
+        <p class="p89 ft3">
+          <span class="ft13">Assessment: </span>Final examination: 70%;
+          Practical assignments: 30%. A <nobr>sub-minimum</nobr> of 40% will be
+          required for each of the assignment and exam components of the course.
+        </p>
+        <p class="p109 ft117">
+          <span class="ft50">CSC5012Z </span>MIT: HUMAN COMPUTER INTERACTION
+        </p>
       
 begin 
         <p class="p722 ft13">DEPARTMENTS IN THE FACULTY 115</p>
@@ -982,248 +897,241 @@ begin
         </p>
       
 close 
-        <span class="ft13">Assessment: </span>Final examination: 70%; Practical
-        assignments: 30%. A <nobr>sub-minimum</nobr> of 40% will be required for
-        each of the assignment and exam components of the course.
+        <span class="ft50">CSC5015Z </span><span class="ft117">MIT: SOFTWARE ENGINEERING </span>12 NQF credits at
+        NQF level 9
       
 begin 
         <span class="ft50">CSC5015Z </span><span class="ft117">MIT: SOFTWARE ENGINEERING </span>12 NQF credits at
         NQF level 9
       
 close 
-        <span class="ft13">Assessment: </span>Final examination: 70%; Practical
-        assignments: 30%. A <nobr>sub-minimum</nobr> of 40% will be required for
-        each of the assignment and exam components of the course.
+        <span class="ft50">CSC5017Z </span><span class="ft117">MIT: RESEARCH METHODS </span>12 NQF credits at NQF
+        level 9
       
 begin 
         <span class="ft50">CSC5017Z </span><span class="ft117">MIT: RESEARCH METHODS </span>12 NQF credits at NQF
         level 9
       
 close 
-        For details of this course, refer to the Department of Statistical
-        Sciences. The curriculum structure is outlined in the front section of
-        this book.
+        <span class="ft50">CSC5007Z </span>DATABASE SYSTEMS
       
 begin 
         <span class="ft50">CSC5007Z </span>DATABASE SYSTEMS
       
 close 
-        <span class="ft13">Assessment: </span>Final examination: 50%; Practical
-        assignments: 50%. A <nobr>sub-minimum</nobr> of 40% will be required for
-        each of the assignment and exam components of the course.
+        <span class="ft50">CSC5009W </span>DATA SCIENCE MINOR DISSERTATION
       
 begin 
         <span class="ft50">CSC5009W </span>DATA SCIENCE MINOR DISSERTATION
       
-close PhD
+close 
+        <span class="ft50">CSC6000W </span>COMPUTER SCIENCE THESIS
+      
 begin 
         <span class="ft50">CSC6000W </span>COMPUTER SCIENCE THESIS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">EGS1003S </span>GEOGRAPHY, DEVELOPMENT &amp; ENVIRONMENT
+      
 begin 
         <span class="ft50">EGS1003S </span>GEOGRAPHY, DEVELOPMENT &amp; ENVIRONMENT
       
 close 
-        <span class="ft13">Assessment: </span>Essays, a class test and tutorial
-        work count 50%; one <nobr>2-hour</nobr> theory examination written in
-        November counts 50% (subminimum of 40% required).
+        <span class="ft50">GEO1009F </span>INTRODUCTION TO EARTH AND
+        ENVIRONMENTAL SCIENCES
       
 begin 
         <span class="ft50">GEO1009F </span>INTRODUCTION TO EARTH AND
         ENVIRONMENTAL SCIENCES
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">EGS2013F </span>THE PHYSICAL ENVIRONMENT
+      
 begin 
         <span class="ft50">EGS2013F </span>THE PHYSICAL ENVIRONMENT
       
 close 
-        <span class="ft118">Assessment: </span>Project, essays, class tests and
-        practical assignments including fieldwork report count 50%; one
-        <nobr>3-hour</nobr> examination written in June count 50% (subminimum of
-        40% required).
+        <span class="ft50">EGS2015S </span>SOCIETY &amp; SPACE
       
 begin 
         <span class="ft50">EGS2015S </span>SOCIETY &amp; SPACE
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">EGS3012S </span>ATMOSPHERIC SCIENCE
+      
 begin 
         <span class="ft50">EGS3012S </span>ATMOSPHERIC SCIENCE
       
 close 
-        <span class="ft13">Assessment: </span>Essays and tests count 20%;
-        project reports and practicals count 20%; one
-        <nobr>3-hour</nobr> examination in November counts 60% (subminimum of
-        40% required).
+        <span class="ft50">EGS3021F </span>SUSTAINABILITY &amp; ENVIRONMENT
       
 begin 
         <span class="ft50">EGS3021F </span>SUSTAINABILITY &amp; ENVIRONMENT
       
 close 
-        <span class="ft13">Assessment: </span>Practical reports (including
-        fieldwork), class tests and other assignments count 50%; one
-        <nobr>3-hour</nobr> June examination counts 50% (subminimum of 40%
-        required).
+        <span class="ft50">EGS3022S </span>GEOGRAPHIC THOUGHT
       
 begin 
         <span class="ft50">EGS3022S </span>GEOGRAPHIC THOUGHT
       
 close 
-        <span class="ft13">DP requirements: </span>Satisfactory completion of
-        essay and practical assignments and participation in tutorials; students
-        must attain an average mark of not less than 40% for the coursework
-        <span class="ft13">Assessment: </span>Essay and other assignments count
-        70%; one <nobr>3-hour</nobr> written examination in November count 30%
-        (subminimum of 40% required).
+        <span class="ft50">EGS3023F </span>ANTHROPOCENE ENVIRONMENTS IN
+        PERSPECTIVE
       
 begin 
         <span class="ft50">EGS3023F </span>ANTHROPOCENE ENVIRONMENTS IN
         PERSPECTIVE
       
 close 
-        In addition to formal courses, students undertaking postgraduate courses
-        are required to participate fully in other departmental activities of an
-        academic nature. Such activities are weekly seminars on environmental
-        topics addressed by persons prominent in their fields, field camps and
-        field exercises away from Cape Town, and study tours to obtain
-        <nobr>first-hand</nobr> exposure to environmental problems and their
-        solutions. Graduate students who, in the opinion of the Head of
-        Department, have not had adequate exposure to undergraduate courses with
-        environmental content may also be required to attend specified courses.
+        <span class="ft50">EGS4001W </span>ATMOSPHERIC SCIENCE HONOURS
       
 begin 
         <span class="ft50">EGS4001W </span>ATMOSPHERIC SCIENCE HONOURS
+      
+close 
+        <span class="ft50">EGS4004W </span>ENVIRONMENTAL &amp; GEOGRAPHICAL SCIENCE
+        HONOURS
       
 begin 
         <span class="ft50">EGS4004W </span>ENVIRONMENTAL &amp; GEOGRAPHICAL SCIENCE
         HONOURS
       
 close 
-        <span class="ft23">Assessment: </span>Courses will be examined at the
-        end of each semester, and the marks combined with project, essay,
-        fieldwork and seminar presentation marks. Examinations on average count
-        50% and coursework 50% for each module. The combined module results
-        count 75% and the research project counts 25% of the degree as a whole.
-        Students must pass the project component in order to qualify. These
-        component parts of the course will be combined in a final overall mark
-        which will be reflected against the course code EGS4004W, with PA (pass)
-        entered against the coursework and project codes; each of these
-        components must be passed separately for the award of the degree.
+        <span class="ft50">EGS4023F/S </span>RESEARCH METHODS FOR NATURAL
+        SCIENTISTS
       
 begin 
         <span class="ft50">EGS4023F/S </span>RESEARCH METHODS FOR NATURAL
         SCIENTISTS
       
 close 
-        <span class="ft13">Assessment: </span>100% Coursework.
+        <span class="ft50">EGS4024F/S </span>MANAGING COMPLEX HUMAN ECOLOGICAL
+        SYSTEMS
       
 begin 
         <span class="ft50">EGS4024F/S </span>MANAGING COMPLEX HUMAN ECOLOGICAL
         SYSTEMS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 60%; examination 40%.
+        <span class="ft50">EGS4030F/S </span>CLIMATE MODELLING
       
 begin 
         <span class="ft50">EGS4030F/S </span>CLIMATE MODELLING
       
 close 
-        <span class="ft13">Assessment: </span>100% Coursework.
+        <span class="ft50">EGS4034F/S </span>INTERROGATING SOUTHERN AFRICAN
+        LANDSCAPES
       
 begin 
         <span class="ft50">EGS4034F/S </span>INTERROGATING SOUTHERN AFRICAN
         LANDSCAPES
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 65%; examination 35%.
+        <span class="ft50">EGS4038F/S </span>CLIMATE CHANGE AND PREDICTABILITY
       
 begin 
         <span class="ft50">EGS4038F/S </span>CLIMATE CHANGE AND PREDICTABILITY
+      
+close 
+        <span class="ft50">EGS4039F/S </span>URBAN FOOD SECURITY
       
 begin 
         <span class="ft50">EGS4039F/S </span>URBAN FOOD SECURITY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 75%; examination 25%.
+        <span class="ft50">EGS4040F/S </span>SPECIAL TOPIC IN HUMAN/ENVIRONMENT
+        INTERACTIONS
       
 begin 
         <span class="ft50">EGS4040F/S </span>SPECIAL TOPIC IN HUMAN/ENVIRONMENT
         INTERACTIONS
       
 close 
-        <span class="ft13">Assessment: </span>100% Coursework
+        <span class="ft50">EGS4041F/S </span>APPROACHES AND ISSUES IN PHYSICAL
+        AND ENVIRONMENTAL SCIENCES
       
 begin 
         <span class="ft50">EGS4041F/S </span>APPROACHES AND ISSUES IN PHYSICAL
         AND ENVIRONMENTAL SCIENCES
       
 close 
-        <span class="ft13">Assessment: </span>100% Coursework.
+        <span class="ft50">EGS4043F/S </span>CLIMATE CHANGE ADAPTATION AND
+        TRANSFORMATION
       
 begin 
         <span class="ft50">EGS4043F/S </span>CLIMATE CHANGE ADAPTATION AND
         TRANSFORMATION
       
+close 
+        <span class="ft50">EGS4044F/S </span>URBAN ECOLOGY
+      
 begin 
         <span class="ft50">EGS4044F/S </span>URBAN ECOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 60%; examination 40%.
+        <span class="ft50">EGS4045F/S </span>GEOMORPHOLOGY
       
 begin 
         <span class="ft50">EGS4045F/S </span>GEOMORPHOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%; examination 50%.
+        <span class="ft50">EGS4046F/S </span>WATER RESOURCE MANAGEMENT
       
 begin 
         <span class="ft50">EGS4046F/S </span>WATER RESOURCE MANAGEMENT
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%; examination 50%.
+        <span class="ft50">EGS4047F/S </span>POLICY AND GOVERNANCE
       
 begin 
         <span class="ft50">EGS4047F/S </span>POLICY AND GOVERNANCE
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 60%; examination 40%.
+        <span class="ft50">EGS4056F/S </span>IMAGINING SOUTHERN CITIES
       
 begin 
         <span class="ft50">EGS4056F/S </span>IMAGINING SOUTHERN CITIES
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%; examination 50%.
+        <span class="ft50">EGS4057F/S </span>URBAN POLITICAL ECOLOGY
       
 begin 
         <span class="ft50">EGS4057F/S </span>URBAN POLITICAL ECOLOGY
+      
+close 
+        <span class="ft50">EGS4058F/S </span>CRITICAL PERSPECTIVES ON THE
+        <nobr>BIO-ECONOMY</nobr>
       
 begin 
         <span class="ft50">EGS4058F/S </span>CRITICAL PERSPECTIVES ON THE
         <nobr>BIO-ECONOMY</nobr>
       
 close 
-        <span class="ft13">Assessment: </span>1 exam - 40%, 1 essay
-        <nobr>(3000-4000</nobr> words) - 30%, 1 seminar presentation - 15%, 1
-        critique (response to a particular article, policy or media piece) -
-        15%.
+        <span class="ft50">EGS4059F/S </span>ENVIRONMENTAL GOVERNANCE IN THE
+        GLOBAL SOUTH
       
 begin 
         <span class="ft50">EGS4059F/S </span>ENVIRONMENTAL GOVERNANCE IN THE
         GLOBAL SOUTH
       
 close 
-        <span class="ft13">Assessment: </span>1 essay
-        <nobr>(4000-4500</nobr> words) – 35%, 1 seminar presentation – 5%, 1
-        24hr <nobr>take-home</nobr> exam – 60%.
+        <span class="ft50">EGS4067F/S </span>AIR QUALITY MONITORING, MANAGEMENT
+        AND PREDICTION
       
 begin 
         <span class="ft50">EGS4067F/S </span>AIR QUALITY MONITORING, MANAGEMENT
         AND PREDICTION
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 60%; Examination 40%
+        <span class="ft50">EGS5000W </span>ENVIRONMENTAL &amp; GEOGRAPHICAL SCIENCE
+        DISSERTATION
       
 begin 
         <span class="ft50">EGS5000W </span>ENVIRONMENTAL &amp; GEOGRAPHICAL SCIENCE
+        DISSERTATION
+      
+close 
+        <span class="ft50">EGS5003W </span>ENVIRONMENTAL &amp; GEOGRAPHICAL SCIENCE
         DISSERTATION
       
 begin 
@@ -1231,1501 +1139,1172 @@ begin
         DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found in the front of the handbook.
+        <span class="ft50">EGS5008H </span>ENVIRONMENT, SOCIETY &amp; SUSTAINABILITY
+        COURSEWORK
       
 begin 
         <span class="ft50">EGS5008H </span>ENVIRONMENT, SOCIETY &amp; SUSTAINABILITY
         COURSEWORK
       
 close 
-        <span class="ft13">Assessment: </span>Assessment for the coursework
-        modules includes both written examinations and coursework assignments
-        such as essays, projects, practical assignments, etc. Examinations on
-        average count 50% and coursework 50% for each module. The combined
-        module results will be reflected as a final coursework result.
+        <span class="ft50">EGS5009W </span>ENVIRONMENT, SOCIETY &amp; SUSTAINABILITY
+        MINOR DISSERTATION
       
 begin 
         <span class="ft50">EGS5009W </span>ENVIRONMENT, SOCIETY &amp; SUSTAINABILITY
         MINOR DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">EGS5012W </span>CLIMATE CHANGE AND PREDICTABILITY
+        COURSEWORK
       
 begin 
         <span class="ft50">EGS5012W </span>CLIMATE CHANGE AND PREDICTABILITY
         COURSEWORK
       
 close 
-        <span class="ft13">Assessment: </span>To qualify for the Master’s
-        degree, students must pass all coursework with a subminimum of 33% for
-        each core or elective course module; an aggregate coursework mark of 50%
-        is required. A composite grade of the performance on the coursework
-        component as a whole will be reflected against the assessment course
-        EGS5012W. The choice of project for the minor dissertation will be
-        determined by prior qualification. Students may register for a minor
-        dissertation in a range of Departments across the University, including
-        Biological Sciences, Environmental &amp; Geographical Science, Geological
-        Sciences, Chemical Engineering, Mechanical Engineering, Economics,
-        Sociology, Law [Refer to relevant Faculty Handbooks]. Minor Dissertation
-        options in the Science Faculty.
+        <span class="ft50">EGS5023F/S </span>RESEARCH METHODS FOR NATURAL
+        SCIENTISTS
       
 begin 
         <span class="ft50">EGS5023F/S </span>RESEARCH METHODS FOR NATURAL
         SCIENTISTS
       
 close 
-        <span class="ft13">Assessment: </span>Coursework 75%; Examination 25%
+        <span class="ft50">EGS5032F/S </span>CLIMATE CHANGE ADAPTATION &amp;
+        MITIGATION
       
 begin 
         <span class="ft50">EGS5032F/S </span>CLIMATE CHANGE ADAPTATION &amp;
         MITIGATION
       
 close 
-        <span class="ft13">Assessment: </span>Coursework 80%; Examination 20%.
+        <span class="ft50">EGS5038F/S </span>CLIMATE CHANGE &amp; PREDICTABILITY
       
 begin 
         <span class="ft50">EGS5038F/S </span>CLIMATE CHANGE &amp; PREDICTABILITY
       
 close 
-        <span class="ft13">Assessment: </span>100% Coursework.
+        <span class="ft50">EGS5039F/S </span>URBAN FOOD SECURITY
       
 begin 
         <span class="ft50">EGS5039F/S </span>URBAN FOOD SECURITY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 75%; examination 25%.
+        <span class="ft50">EGS5040F/S </span>SPECIAL TOPIC IN HUMAN/ENVIRONMENT
+        INTERACTIONS
       
 begin 
         <span class="ft50">EGS5040F/S </span>SPECIAL TOPIC IN HUMAN/ENVIRONMENT
         INTERACTIONS
       
 close 
-        <span class="ft13">Assessment: </span>100% Coursework.
+        <span class="ft50">EGS5041F/S </span>APPROACHES AND ISSUES IN PHYSICAL
+        AND ENVIRONMENTAL SCIENCES
       
 begin 
         <span class="ft50">EGS5041F/S </span>APPROACHES AND ISSUES IN PHYSICAL
         AND ENVIRONMENTAL SCIENCES
       
 close 
-        <span class="ft13">Assessment: </span>100% Coursework.
+        <span class="ft50">EGS5043F/S </span>CLIMATE CHANGE ADAPTATION AND
+        TRANSFORMATION
       
 begin 
         <span class="ft50">EGS5043F/S </span>CLIMATE CHANGE ADAPTATION AND
         TRANSFORMATION
       
+close 
+        <span class="ft50">EGS5044F/S </span>URBAN ECOLOGY
+      
 begin 
         <span class="ft50">EGS5044F/S </span>URBAN ECOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 60%; examination 40%.
+        <span class="ft50">EGS5045F/S </span>GEOMORPHOLOGY
       
 begin 
         <span class="ft50">EGS5045F/S </span>GEOMORPHOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%; examination 50%.
+        <span class="ft50">EGS5046F/S </span>WATER RESOURCE MANAGEMENT
       
 begin 
         <span class="ft50">EGS5046F/S </span>WATER RESOURCE MANAGEMENT
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%; examination 50%.
+        <span class="ft50">EGS5047F/S </span>POLICY AND GOVERNANCE
       
 begin 
         <span class="ft50">EGS5047F/S </span>POLICY AND GOVERNANCE
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 60%; examination 40%.
+        <span class="ft50">EGS5052W </span>APPLIED OCEAN SCIENCES MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">EGS5052W </span>APPLIED OCEAN SCIENCES MINOR
         DISSERTATION
       
+close 
+        <span class="ft50">EGS5056F/S </span>IMAGINING SOUTHERN CITIES
+      
 begin 
         <span class="ft50">EGS5056F/S </span>IMAGINING SOUTHERN CITIES
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%; examination 50%.
+        <span class="ft50">EGS5057F/S </span>URBAN POLITICAL ECOLOGY
       
 begin 
         <span class="ft50">EGS5057F/S </span>URBAN POLITICAL ECOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 70%; examination 30%.
+        <span class="ft50">EGS5058F/S </span>CRITICAL PERSPECTIVES ON THE
+        <nobr>BIO-ECONOMY</nobr>
       
 begin 
         <span class="ft50">EGS5058F/S </span>CRITICAL PERSPECTIVES ON THE
         <nobr>BIO-ECONOMY</nobr>
       
 close 
-        <span class="ft13">Assessment: </span>1 exam - 40%, 1 essay
-        <nobr>(4000-5000</nobr> words) - 30%, 1 seminar presentation - 15%, 1
-        critique (response to a particular article, policy or media piece) -
-        15%.
+        <span class="ft50">EGS5059F/S </span>ENVIRONMENTAL GOVERNANCE IN THE
+        GLOBAL SOUTH
       
 begin 
         <span class="ft50">EGS5059F/S </span>ENVIRONMENTAL GOVERNANCE IN THE
         GLOBAL SOUTH
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 60%; examination 40%.
+        <span class="ft50">EGS5060W </span>URBAN STUDIES COURSEWORK
       
 begin 
         <span class="ft50">EGS5060W </span>URBAN STUDIES COURSEWORK
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. Upon successful completion of the
-        coursework component, students will be required to register for the
-        minor dissertation component (EGS5061W) in the second semester of the
-        first year.
+        <span class="ft50">EGS5061W </span>URBAN STUDIES MINOR DISSERTATION
       
 begin 
         <span class="ft50">EGS5061W </span>URBAN STUDIES MINOR DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">EGS5062F </span>THE URBAN EVERYDAY IN SOUTHERN CITIES
       
 begin 
         <span class="ft50">EGS5062F </span>THE URBAN EVERYDAY IN SOUTHERN CITIES
       
-close 
-        <span class="ft13">Assessment: </span>Three 'reaction' papers to engage
-        literature and <nobr>field-based</nobr> work (30%); long paper (40%);
-        course participation and seminar presentation (10%); weekly journal
-        reflecting on literature and new learning (20%)
-      
+close <span class="ft50">EGS5063F </span>URBAN THEORY
 begin <span class="ft50">EGS5063F </span>URBAN THEORY
 close 
-        <span class="ft13">Assessment: </span>Three 'reaction' papers to engage
-        literature and <nobr>field-based</nobr> work (30%); long paper (40%);
-        course participation and seminar presentation (10%); weekly journal
-        reflecting on literature and new learning (20%)
+        <span class="ft50">EGS5064W </span>THEORIES OF JUSTICE &amp; INEQUALITY
+        MINOR DISSERTATION
       
 begin 
         <span class="ft50">EGS5064W </span>THEORIES OF JUSTICE &amp; INEQUALITY
         MINOR DISSERTATION
+      
+close 
+        <span class="ft50">EGS5065W </span>CITY RESEARCH STUDIO: RESEARCH
+        PRACTICE &amp; METHODS
       
 begin 
         <span class="ft50">EGS5065W </span>CITY RESEARCH STUDIO: RESEARCH
         PRACTICE &amp; METHODS
       
 close 
-        <span class="ft101">Assessment: </span>Three papers (30%), narrative and
-        visual journal on research practice in studio (30%), group contributions
-        to exhibition (20%), thesis research proposal (10%), participation
-        (10%).
+        <span class="ft50">EGS5066F/S </span>GEOGRAPHIES OF SEXUALITIES:
+        IDENTITY, PLACE, &amp; HEALTH
       
 begin 
         <span class="ft50">EGS5066F/S </span>GEOGRAPHIES OF SEXUALITIES:
         IDENTITY, PLACE, &amp; HEALTH
       
 close 
-        <span class="ft13">Assessment: </span>1 essay
-        <nobr>(6000-6500</nobr> words) – 30%, 1 seminar presentation – 10%, 1
-        24hr <nobr>take-home</nobr> exam – 60%.
+        <span class="ft50">EGS5067F/S </span>AIR QUALITY MONITORING, MANAGEMENT
+        AND PREDICTION
       
 begin 
         <span class="ft50">EGS5067F/S </span>AIR QUALITY MONITORING, MANAGEMENT
         AND PREDICTION
       
 close 
-        <span class="ft13">Assessment: </span>Literature review 10%, data
-        analysis assignment and paper 35%, discussion piece 10%, project poster
-        and presentation 15%, final capstone exam 30%.
+        <span class="ft50">EGS6003W </span>ENVIRONMENTAL &amp; GEOGRAPHICAL SCIENCE
+        THESIS
       
 begin 
         <span class="ft50">EGS6003W </span>ENVIRONMENTAL &amp; GEOGRAPHICAL SCIENCE
         THESIS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">GEO1006S </span>INTRODUCTION TO MINERALS, ROCKS &amp;
+        STRUCTURE
+      
 begin 
         <span class="ft50">GEO1006S </span>INTRODUCTION TO MINERALS, ROCKS &amp;
         STRUCTURE
+      
+close 
+        <span class="ft50">GEO1009F </span>INTRODUCTION TO EARTH AND
+        ENVIRONMENTAL SCIENCES
       
 begin 
         <span class="ft50">GEO1009F </span>INTRODUCTION TO EARTH AND
         ENVIRONMENTAL SCIENCES
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">GEO2001F </span>MINERALOGY &amp; CRYSTALLOGRAPHY
+      
 begin 
         <span class="ft50">GEO2001F </span>MINERALOGY &amp; CRYSTALLOGRAPHY
       
 close 
-        <span class="ft13">Assessment: </span>Marked class work, including
-        tests, count 20%; one <nobr>2-hour</nobr> practical examination in June
-        counts 30%; one <nobr>2-hour</nobr> theory examination in June counts
-        50%. Subminima of 40% are required in practical and theory examination
-        papers.
+        <span class="ft50">GEO2004S </span>PHYSICAL GEOLOGY
       
 begin 
         <span class="ft50">GEO2004S </span>PHYSICAL GEOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Class tests and practicals count
-        25%; one <nobr>2-hour</nobr> practical examination in November counts
-        30%; one <nobr>2-hour</nobr> theory examination in November counts 45%.
-        Subminima of 40% are required in practical and theory examination
-        papers.
+        <span class="ft50">GEO2005X </span>FIELD GEOLOGY &amp; GEOLOGICAL MAPPING
       
 begin 
         <span class="ft50">GEO2005X </span>FIELD GEOLOGY &amp; GEOLOGICAL MAPPING
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">GEO3001S </span>STRATIGRAPHY &amp; ECONOMIC GEOLOGY
+      
 begin 
         <span class="ft50">GEO3001S </span>STRATIGRAPHY &amp; ECONOMIC GEOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Practicals and tests count 25%;
-        one <nobr>3-hour</nobr> theory examination written in November counts
-        45%; two <nobr>2-hour</nobr> practical examinations written in November
-        count 30%. Subminima of 40% required in practical and theory examination
-        papers.
+        <span class="ft50">GEO3005F </span>PETROLOGY &amp; STRUCTURAL GEOLOGY
       
 begin 
         <span class="ft50">GEO3005F </span>PETROLOGY &amp; STRUCTURAL GEOLOGY
       
-close Postgraduate Courses
+close 
+        <span class="ft50">GEO4000W </span>GEOLOGY HONOURS
+      
 begin 
         <span class="ft50">GEO4000W </span>GEOLOGY HONOURS
       
 close 
-        <span class="ft23">Assessment: </span>The modules will be examined in
-        <nobr>mid-year</nobr> and in October, and the latter examinations will
-        include a 3 hour General Exam. Examinations will count 60%, practical
-        and assignment work done during the year counts 15%, and the research
-        project 25% towards the final grade. Subminima are required for the
-        overall examination mark (40%) and for the research project (50%). These
-        component parts of the course will be combined in a final overall mark
-        which will be reflected against the course code GEO4000W, with PA (pass)
-        entered against the coursework and project codes; each of these
-        components must be passed separately for the award of the degree.
+        <span class="ft50">GEO4001W </span>GEOCHEMISTRY HONOURS
       
 begin 
         <span class="ft50">GEO4001W </span>GEOCHEMISTRY HONOURS
       
 close 
-        160 NQF credits at NQF level 8; the combined credit value of both
-        components.
+        <span class="ft50">GEO5000W </span>GEOLOGY DISSERTATION
       
 begin 
         <span class="ft50">GEO5000W </span>GEOLOGY DISSERTATION
       
 close 
-        demonstrate the successful completion of a programme of training in
-        research methods, a thorough understanding of the scientific principles
-        underlying the research and an appropriate acquaintance with the
-        relevant literature. It must be clearly presented and conform to the
-        standards of the department and faculty. The dissertation will usually
-        consist of a report detailing the conduct, and analysis of the results
-        of, research performed under the close guidance of a suitably qualified
-        supervisor/s. The dissertation should be <nobr>well-conceived</nobr> and
-        acknowledge earlier research in the field. It should demonstrate the
-        ability to undertake a substantial and informed piece of research, and
-        to collect, organise and analyse material. General rules for this degree
-        may be found at the front of the handbook.
+        <span class="ft50">GEO5003W </span>GEOCHEMISTRY DISSERTATION
       
 begin 
         <span class="ft50">GEO5003W </span>GEOCHEMISTRY DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found at the front of the handbook.
+        <span class="ft50">GEO5005H </span>CLIMATE CHANGE MINOR DISSERTATION
       
 begin 
         <span class="ft50">GEO5005H </span>CLIMATE CHANGE MINOR DISSERTATION
       
-close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
-      
+close <span class="ft50">GEO6000W </span>GEOLOGY THESIS
 begin <span class="ft50">GEO6000W </span>GEOLOGY THESIS
+close 
+        <span class="ft50">GEO6001W </span>GEOCHEMISTRY THESIS
+      
 begin 
         <span class="ft50">GEO6001W </span>GEOCHEMISTRY THESIS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">MAM1008S </span>INTRODUCTION TO DISCRETE MATHEMATICS
+      
 begin 
         <span class="ft50">MAM1008S </span>INTRODUCTION TO DISCRETE MATHEMATICS
       
 close 
-        <span class="ft13">Assessment: </span>Class Record counts 50% and Exam
-        counts 50%.
+        <span class="ft50">MAM1043H </span>MODELLING &amp; APPLIED COMPUTING
       
 begin 
         <span class="ft50">MAM1043H </span>MODELLING &amp; APPLIED COMPUTING
       
 close 
-        Students may not simultaneously register for MAM1000W and any of
-        MAM2000W, MAM2004H, and MAM2002S.
+        <span class="ft50">MAM2046W </span>APPLIED MATHEMATICS 2046
       
 begin 
         <span class="ft50">MAM2046W </span>APPLIED MATHEMATICS 2046
       
 close 
-        <span class="ft13">Assessment: </span>For each module the class record
-        counts 30% and one no longer than <nobr>2-hour</nobr> examination paper
-        counts 70%.
+        <span class="ft50">MAM2047H </span>APPLIED MATHEMATICS 2047
       
 begin 
         <span class="ft50">MAM2047H </span>APPLIED MATHEMATICS 2047
       
+close 
+        <span class="ft50">MAM2048H </span>APPLIED MATHEMATICS 2048
+      
 begin 
         <span class="ft50">MAM2048H </span>APPLIED MATHEMATICS 2048
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">MAM3040W </span>APPLIED MATHEMATICS 3040
+      
 begin 
         <span class="ft50">MAM3040W </span>APPLIED MATHEMATICS 3040
+      
+close 
+        <span class="ft50">MAM3041H </span>APPLIED MATHEMATICS 3041
       
 begin 
         <span class="ft50">MAM3041H </span>APPLIED MATHEMATICS 3041
       
 close 
-        <span class="ft13">Assessment: </span>Please refer to the MAM3040W
-        examination requirements entry for the class record and examination
-        weighting for each module.
+        <span class="ft50">MAM3048H </span>APPLIED MATHEMATICS 3048
       
 begin 
         <span class="ft50">MAM3048H </span>APPLIED MATHEMATICS 3048
       
 close 
-        <span class="ft13">Assessment: </span>Please refer to the MAM3040W
-        examination requirements for the class record and examination weighting
-        for each module.
+        <span class="ft50">MAM3055Z </span>PROJECT/INTERNSHIP IN APPLIED
+        MATHEMATICS
       
 begin 
         <span class="ft50">MAM3055Z </span>PROJECT/INTERNSHIP IN APPLIED
         MATHEMATICS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">MAM1000W </span>MATHEMATICS 1000
+      
 begin 
         <span class="ft50">MAM1000W </span>MATHEMATICS 1000
       
 close 
-        <span class="ft13">Assessment: </span>Year mark counts 33.3%; two no
-        longer than <nobr>3-hour</nobr> papers written in October/November make
-        up the balance.
+        <span class="ft50">MAM1004F </span>MATHEMATICS 1004
       
 begin 
         <span class="ft50">MAM1004F </span>MATHEMATICS 1004
       
 close 
-        <span class="ft13">Assessment: </span>Year mark counts 50%; one
-        <nobr>3-hour</nobr> examination makes up the balance.
+        <span class="ft50">MAM1004S </span>MATHEMATICS 1004
       
 begin 
         <span class="ft50">MAM1004S </span>MATHEMATICS 1004
       
 close 
-        <span class="ft13">Assessment: </span>Year mark counts up to 40%; one
-        <nobr>3-hour</nobr> examination (written in June for MAM1004F, written
-        in November for MAM1004S) makes up the balance.
+        <span class="ft50">MAM1005H </span>MATHEMATICS 1005
       
 begin 
         <span class="ft50">MAM1005H </span>MATHEMATICS 1005
       
 close 
-        <span class="ft13">Assessment: </span>Year mark counts up to 50%; one
-        <nobr>2-hour</nobr> examination written in October/November makes up the
-        balance.
+        <span class="ft50">MAM1006H </span>MATHEMATICS 1006
       
 begin 
         <span class="ft50">MAM1006H </span>MATHEMATICS 1006
       
 close 
-        <span class="ft13">Assessment: </span>Year mark counts up to 40%; one
-        <nobr>2-hour</nobr> examination written in October/November makes up the
-        balance.
+        <span class="ft50">MAM1019H </span>FUNDAMENTALS OF MATHEMATICS
       
 begin 
         <span class="ft50">MAM1019H </span>FUNDAMENTALS OF MATHEMATICS
       
 close 
-        Students may not simultaneously register for MAM1000W and any of
-        MAM2000W, MAM2004H, and MAM2002S.
+        <span class="ft50">MAM2000W </span>MATHEMATICS 2000
       
 begin 
         <span class="ft50">MAM2000W </span>MATHEMATICS 2000
+      
+close 
+        <span class="ft50">MAM2002S </span>MATHEMATICS 2002
       
 begin 
         <span class="ft50">MAM2002S </span>MATHEMATICS 2002
       
 close 
-        <span class="ft13">Assessment: </span>As for MAM2000W except that the
-        examination consists of two papers of up to 2 hours each.
+        <span class="ft50">MAM2004H </span>MATHEMATICS 2004
       
 begin 
         <span class="ft50">MAM2004H </span>MATHEMATICS 2004
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">MAM3000W </span>MATHEMATICS 3000
+      
 begin 
         <span class="ft50">MAM3000W </span>MATHEMATICS 3000
       
 close 
-        <span class="ft13">Assessment: </span>Year mark counts up to 40%; the
-        examination mark counts at least 60% of the final mark. The examination
-        consists of four papers of up to 2 hours each.
-        <nobr>First-semester</nobr> modules will be examined in June and
-        <nobr>second-semester</nobr> modules in October/November.
+        <span class="ft50">MAM3001W </span>MATHEMATICS 3001
       
 begin 
         <span class="ft50">MAM3001W </span>MATHEMATICS 3001
       
 close 
-        <span class="ft13">Assessment: </span>Year mark counts up to 40%; the
-        examination mark accounts for the balance. The examination consists of
-        four papers of up to 2 hours each. <nobr>First-semester</nobr> modules
-        will be examined in June and <nobr>second-semester</nobr> modules in
-        October/November.
+        <span class="ft50">MAM3002H </span>MATHEMATICS 3002
       
 begin 
         <span class="ft50">MAM3002H </span>MATHEMATICS 3002
       
 close 
-        <span class="ft13">Assessment: </span>As for MAM3000W, except that the
-        examination consists of two papers of up to 2 hours each.
+        <span class="ft50">MAM3003S </span>MATHEMATICS 3003
       
 begin 
         <span class="ft50">MAM3003S </span>MATHEMATICS 3003
       
 close 
-        <span class="ft13">Assessment: </span>As for MAM3000W, except that the
-        examination consists of two papers of up to 2 hours each.
+        <span class="ft50">MAM3006Z </span>PROJECT IN MATHEMATICS
       
 begin 
         <span class="ft50">MAM3006Z </span>PROJECT IN MATHEMATICS
       
 close 
-        There are a number of Honours courses available to students who have
-        completed senior courses in Applied Mathematics and Mathematics. Details
-        can be found on the website www.<span class="ft17">mamhonours.uct.ac.za</span>. Those interested should contact the Honours Program Convenor,
-        Associate Professor D J Erwin.
+        <span class="ft50">MAM4000W </span>MATHEMATICS HONOURS
       
 begin 
         <span class="ft50">MAM4000W </span>MATHEMATICS HONOURS
       
 close 
-        <span class="ft23">Assessment: </span>The project counts 25% of the
-        final mark and must be passed (with 50%). On average, the examination
-        counts at least 50% of the balance of the final mark for the course.
-        Three core modules together count 37.5% of the final mark. The remaining
-        37.5% of the final mark is calculated using the student’s best marks in
-        their other modules. These component parts of the course will be
-        combined in a final overall mark which will be reflected against the
-        course code MAM4000W, with PA (pass) entered against the coursework and
-        project codes; each of these components must be passed separately for
-        the award of the degree.
+        <span class="ft50">MAM4001W </span>APPLIED MATHEMATICS HONOURS
       
 begin 
         <span class="ft50">MAM4001W </span>APPLIED MATHEMATICS HONOURS
       
 close 
-        <span class="ft13">Assessment: </span>The project and seminar together
-        count 25% of the final mark and must be passed (with 50%). On average,
-        the examination counts at least 50% of the balance of the final mark for
-        the course. At least 37.5% of the final mark must come from the
-        previously mentioned applied mathematics modules taught by MAM. The
-        remaining 37.5% of the final mark is calculated using the student’s best
-        marks in their other modules. These component parts of the course will
-        be combined in a final overall mark which will be reflected against the
-        course code MAM4001W, with PA (pass) entered against the coursework and
-        project codes; each of these components must be passed separately for
-        the award of the degree.
+        <span class="ft50">AST4007W </span>ASTROPHYSICS &amp; SPACE SCIENCE HONOURS
       
 begin 
         <span class="ft50">AST4007W </span>ASTROPHYSICS &amp; SPACE SCIENCE HONOURS
       
 close 
-        <span class="ft23">Assessment: </span>The assessment of the coursework
-        is based on the class records and examinations for each of the modules.
-        In general they are made up from tests, oral presentations, projects and
-        a final examination. Examinations count 40%, class record 40% and
-        research project 20% of the final result. The project component must be
-        passed at 50%. These component parts of the course will be combined in a
-        final overall mark which will be reflected against the course code
-        AST4007W, with PA (pass) entered against the coursework and project
-        codes; each of these components must be passed separately for the award
-        of the degree.
+        <span class="ft50">AST5003F </span>ASTROPHYSICS &amp; SPACE SCIENCE
+        COURSEWORK
       
 begin 
         <span class="ft50">AST5003F </span>ASTROPHYSICS &amp; SPACE SCIENCE
         COURSEWORK
       
 close 
-        <span class="ft13">Assessment: </span>On average, examinations of
-        individual modules count 60% of the final result, and marked practical
-        work counts 40%.
+        <span class="ft50">MAM5000W </span>MATHEMATICS DISSERTATION
       
 begin 
         <span class="ft50">MAM5000W </span>MATHEMATICS DISSERTATION
       
 close 
-        analysis of the results of, research performed under the close guidance
-        of a suitably qualified supervisor/s. The dissertation should be
-        <nobr>well-conceived</nobr> and acknowledge earlier research in the
-        field. It should demonstrate the ability to undertake a substantial and
-        informed piece of research, and to collect, organise and analyse
-        material. General rules for this degree may be found in the front of the
-        handbook.
+        <span class="ft50">MAM5001W </span>APPLIED MATHEMATICS DISSERTATION
       
 begin 
         <span class="ft50">MAM5001W </span>APPLIED MATHEMATICS DISSERTATION
       
 close 
-        The course will consist of the investigation of one or two topics chosen
-        for intensive study by the candidate and approved by the Head of
-        Department. Examination will be by dissertation. An oral examination may
-        be required. The Department has research programmes in four particular
-        areas of Applied Mathematics, namely (i) general relativity and
-        astrophysics, (ii) mathematical modelling of biological, ecological and
-        environmental systems, (iii) continuum mechanics, applied analysis and
-        finite elements, and (iv) nonlinear evolution equations and
-        <nobr>non-integrable</nobr> systems. See also 'Research in Mathematics &amp;
-        Applied Mathematics'. Candidates will be particularly encouraged to take
-        part in one of these programmes. General rules for this degree may be
-        found in the front of the handbook.
+        <span class="ft50">MAM5005W </span>ASTROPHYSICS &amp; SPACE SCIENCE MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">MAM5005W </span>ASTROPHYSICS &amp; SPACE SCIENCE MINOR
         DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>Students will work on an approved
-        research topic on which a minor dissertation must be presented for
-        formal examination.
+        <span class="ft50">MAM6000W </span>MATHEMATICS THESIS
       
 begin 
         <span class="ft50">MAM6000W </span>MATHEMATICS THESIS
       
+close 
+        <span class="ft50">MAM6001W </span>APPLIED MATHEMATICS THESIS
+      
 begin 
         <span class="ft50">MAM6001W </span>APPLIED MATHEMATICS THESIS
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">MCB2020F </span>BIOLOGICAL INFORMATION TRANSFER
+      
 begin 
         <span class="ft50">MCB2020F </span>BIOLOGICAL INFORMATION TRANSFER
       
 close 
-        <span class="ft13">Assessment: </span>Tests and assignments count 40%;
-        practicals count 10%; one <nobr>three-hour</nobr> paper written in June
-        counts 50%. A subminimum of 40% in the examination is required.
+        <span class="ft50">MCB2021F </span>MOLECULAR BIOSCIENCE
       
 begin 
         <span class="ft50">MCB2021F </span>MOLECULAR BIOSCIENCE
+      
+close 
+        <span class="ft50">MCB2022S </span>METABOLISM &amp; BIOENGINEERING
       
 begin 
         <span class="ft50">MCB2022S </span>METABOLISM &amp; BIOENGINEERING
       
 close 
-        <span class="ft13">Assessment: </span>Tests and assignments count 40%;
-        practicals count 10%; one <nobr>three-hour</nobr> paper written in
-        November counts 50%. A subminimum of 40% in the examination is required.
+        <span class="ft50">MCB2023S </span>FUNCTIONAL GENETICS
       
 begin 
         <span class="ft50">MCB2023S </span>FUNCTIONAL GENETICS
       
 close 
-        NOTE: All MCB majors must complete MCB3012Z (Research project in
-        Molecular and Cell Biology) during the second semester. This course
-        replaces practical classes for both third year second semester MCB
-        courses.
+        <span class="ft50">MCB3012Z </span>RESEARCH PROJECT IN MOLECULAR &amp; CELL
+        BIOLOGY
       
 begin 
         <span class="ft50">MCB3012Z </span>RESEARCH PROJECT IN MOLECULAR &amp; CELL
         BIOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Project counts 100%
+        <span class="ft50">MCB3023S </span>MOLECULAR EVOLUTIONARY GENETICS &amp;
+        DEVELOPMENT
       
 begin 
         <span class="ft50">MCB3023S </span>MOLECULAR EVOLUTIONARY GENETICS &amp;
         DEVELOPMENT
       
 close 
-        <span class="ft13">Assessment: </span>Tests count 40%; one
-        <nobr>3-hour</nobr> examination written in November counts 60%. A
-        subminimum of 40% in the examination is required.
+        <span class="ft50">MCB3024S </span>DEFENCE &amp; DISEASE
       
 begin 
         <span class="ft50">MCB3024S </span>DEFENCE &amp; DISEASE
       
 close 
-        <span class="ft13">Assessment: </span>Tests count 40%; one
-        <nobr>3-hour</nobr> examination written in November counts 60%. A
-        subminimum of 40% in the examination is required.
+        <span class="ft50">MCB3025F </span>STRUCTURAL &amp; CHEMICAL BIOLOGY
       
 begin 
         <span class="ft50">MCB3025F </span>STRUCTURAL &amp; CHEMICAL BIOLOGY
       
+close 
+        <span class="ft50">MCB3026F </span>MOLECULAR GENETICS AND GENOMICS
+      
 begin 
         <span class="ft50">MCB3026F </span>MOLECULAR GENETICS AND GENOMICS
       
-close Postgraduate Courses
+close 
+        <span class="ft50">MCB4002W </span>MOLECULAR &amp; CELL BIOLOGY HONOURS
+      
 begin 
         <span class="ft50">MCB4002W </span>MOLECULAR &amp; CELL BIOLOGY HONOURS
+      
+close 
+        <span class="ft50">MCB5005W </span>MOLECULAR &amp; CELL BIOLOGY DISSERTATION
       
 begin 
         <span class="ft50">MCB5005W </span>MOLECULAR &amp; CELL BIOLOGY DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found in the front of the handbook
+        <span class="ft50">MCB6002W </span>MOLECULAR &amp; CELL BIOLOGY THESIS
       
 begin 
         <span class="ft50">MCB6002W </span>MOLECULAR &amp; CELL BIOLOGY THESIS
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">SEA2004F </span>PRINCIPLES OF OCEANOGRAPHY
+      
 begin 
         <span class="ft50">SEA2004F </span>PRINCIPLES OF OCEANOGRAPHY
       
 close 
-        <span class="ft13">Assessment: </span>Practicals and tests count 50%;
-        one <nobr>3-hour</nobr> examination written in June/July counts 50%. A
-        subminimum of 40% in the examination is required.
+        <span class="ft50">SEA2005S </span>MARINE SYSTEMS
       
 begin 
         <span class="ft50">SEA2005S </span>MARINE SYSTEMS
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">SEA3004F </span>OCEAN &amp; ATMOSPHERE DYNAMICS
+      
 begin 
         <span class="ft50">SEA3004F </span>OCEAN &amp; ATMOSPHERE DYNAMICS
       
-close Postgraduate Courses
+close 
+        <span class="ft50">SEA4001W </span>OCEAN &amp; ATMOSPHERE SCIENCE HONOURS
+      
 begin 
         <span class="ft50">SEA4001W </span>OCEAN &amp; ATMOSPHERE SCIENCE HONOURS
+      
+close 
+        <span class="ft50">SEA5000W </span>OCEAN &amp; ATMOSPHERE SCIENCE
+        DISSERTATION
       
 begin 
         <span class="ft50">SEA5000W </span>OCEAN &amp; ATMOSPHERE SCIENCE
         DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found in the front of the handbook.
+        <span class="ft50">SEA5001W </span>PHYSICAL OCEANOGRAPHY DISSERTATION
       
 begin 
         <span class="ft50">SEA5001W </span>PHYSICAL OCEANOGRAPHY DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found in the front of the handbook.
+        <span class="ft50">SEA5011F </span>OPERATIONAL OCEANOGRAPHY COURSEWORK
       
 begin 
         <span class="ft50">SEA5011F </span>OPERATIONAL OCEANOGRAPHY COURSEWORK
       
 close 
-        will be made available on the BIO5012W website (hosted by the Marine and
-        Antarctic Research Centre for Innovation and Sustainability).
+        <span class="ft50">SEA5012W </span>APPLIED OCEAN SCIENCES MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">SEA5012W </span>APPLIED OCEAN SCIENCES MINOR
         DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">SEA6000W </span>OCEAN &amp; ATMOSPHERE SCIENCE THESIS
       
 begin 
         <span class="ft50">SEA6000W </span>OCEAN &amp; ATMOSPHERE SCIENCE THESIS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">PHY1004W </span>MATTER &amp; INTERACTIONS
+      
 begin 
         <span class="ft50">PHY1004W </span>MATTER &amp; INTERACTIONS
       
 close 
-        <span class="ft118">Assessment: </span>Class record (weekly problem
-        sets, class tests and laboratory record) counts 50%; one
-        <nobr>2-hour</nobr> examination in June counts 25%; one
-        <nobr>2-hour</nobr> examination in November counts 25%.
+        <span class="ft50">PHY1023H </span>PRINCIPLES OF PHYSICS
       
 begin 
         <span class="ft50">PHY1023H </span>PRINCIPLES OF PHYSICS
       
+close 
+        <span class="ft50">PHY1032S </span>GENERAL PHYSICS B
+      
 begin 
         <span class="ft50">PHY1032S </span>GENERAL PHYSICS B
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">PHY2004W </span>INTERMEDIATE PHYSICS
+      
 begin 
         <span class="ft50">PHY2004W </span>INTERMEDIATE PHYSICS
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">PHY3004W </span>ADVANCED PHYSICS
+      
 begin 
         <span class="ft50">PHY3004W </span>ADVANCED PHYSICS
       
-close Postgraduate Courses
+close 
+        <span class="ft50">PHY4000W </span>PHYSICS HONOURS
+      
 begin 
         <span class="ft50">PHY4000W </span>PHYSICS HONOURS
       
 close 
-        <span class="ft23">Assessment: </span>The pass mark is 50% and is based
-        on an aggregation of the results of all modules, and is further subject
-        to the subminimum criteria of obtaining a minimum mark of 50% in the
-        Research Project, passing two thirds of all modules, and achieving a
-        mark of at least 35% in all but one of the compulsory modules. The
-        Research Project will count 25% of the final mark. These component parts
-        of the course will be combined in a final overall mark which will be
-        reflected against the course code PHY4000W, with PA (pass) entered
-        against the coursework and project codes; each of these components must
-        be passed separately for the award of the degree.
+        <span class="ft50">PHY5000W </span>PHYSICS DISSERTATION
       
 begin 
         <span class="ft50">PHY5000W </span>PHYSICS DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found in the front of the handbook.
+        <span class="ft50">PHY5001W </span>THEORETICAL PHYSICS DISSERTATION
       
 begin 
         <span class="ft50">PHY5001W </span>THEORETICAL PHYSICS DISSERTATION
       
 close 
-        field. It should demonstrate the ability to undertake a substantial and
-        informed piece of research, and to collect, organise and analyse
-        material. General rules for this degree may be found in the front of the
-        handbook.
+        <span class="ft50">PHY5003W </span>ASTROPHYSICS &amp; SPACE SCIENCE MINOR
+        DISSERTATION
       
 begin 
         <span class="ft50">PHY5003W </span>ASTROPHYSICS &amp; SPACE SCIENCE MINOR
         DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>Students will work on an approved
-        research topic on which a minor dissertation must be presented for
-        formal examination.
+        <span class="ft50">PHY5006W </span>TERTIARY PHYSICS EDUCATION
+        DISSERTATION
       
 begin 
         <span class="ft50">PHY5006W </span>TERTIARY PHYSICS EDUCATION
         DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found in the front of the handbook.
+        <span class="ft50">PHY5007Z </span>DATA SCIENCE FOR PARTICLE PHYSICS
       
 begin 
         <span class="ft50">PHY5007Z </span>DATA SCIENCE FOR PARTICLE PHYSICS
       
 close 
-        <span class="ft13">Assessment: </span>Two projects: 25% each. Practical
-        <nobr>'take-home'</nobr> Computing examination: 50%. A sub- minimum of
-        50% for each of the project and examination components will be required.
+        <span class="ft50">PHY5008W </span>DATA SCIENCE MINOR DISSERTATION
       
 begin 
         <span class="ft50">PHY5008W </span>DATA SCIENCE MINOR DISSERTATION
       
+close 
+        <span class="ft50">PHY6000W </span>PHYSICS THESIS
+      
 begin 
         <span class="ft50">PHY6000W </span>PHYSICS THESIS
+      
+close 
+        <span class="ft50">PHY6001W </span>TERTIARY PHYSICS EDUCATION THESIS
       
 begin 
         <span class="ft50">PHY6001W </span>TERTIARY PHYSICS EDUCATION THESIS
       
-close <nobr>First-Year</nobr> Courses
+close 
+        <span class="ft50">STA1000F </span>INTRODUCTORY STATISTICS
+      
 begin 
         <span class="ft50">STA1000F </span>INTRODUCTORY STATISTICS
+      
+close 
+        <span class="ft50">STA1000S </span>INTRODUCTORY STATISTICS
       
 begin 
         <span class="ft50">STA1000S </span>INTRODUCTORY STATISTICS
       
 close 
-        <span class="ft13">DP requirements: </span>Satisfactory attendance of
-        lectures, tutorials, practicals and tests and completion of assignments
-        and/or exercises as set out in course outline. Class record of at least
-        35%. <span class="ft13">Assessment: </span>Class record 40% and a
-        <nobr>2-hour</nobr> exam counting 60%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA1000P/L </span>INTRODUCTORY STATISTICS
       
 begin 
         <span class="ft50">STA1000P/L </span>INTRODUCTORY STATISTICS
       
 close 
-        <span class="ft13">Assessment: </span>Class record 40% and a
-        <nobr>2-hour</nobr> exam counting 60%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA1006S </span>MATHEMATICAL STATISTICS I
       
 begin 
         <span class="ft50">STA1006S </span>MATHEMATICAL STATISTICS I
       
 close 
-        <span class="ft13">DP requirements: </span>Satisfactory attendance of
-        lectures, tutorials, practicals and tests and completion of assignments
-        and/or class exercises as set out in course outline. Class record of at
-        least 35%. <span class="ft13">Assessment: </span>Class record 30% and a
-        <nobr>3-hour</nobr> exam counting 70%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA1007S </span>INTRODUCTORY STATISTICS FOR
+        SCIENTISTS
       
 begin 
         <span class="ft50">STA1007S </span>INTRODUCTORY STATISTICS FOR
         SCIENTISTS
       
-close <nobr>Second-Year</nobr> Courses
+close 
+        <span class="ft50">STA2004F </span>STATISTICAL THEORY &amp; INFERENCE
+      
 begin 
         <span class="ft50">STA2004F </span>STATISTICAL THEORY &amp; INFERENCE
       
-close 
-        <span class="ft13">DP requirements: </span>Satisfactory attendance of
-        lectures, tutorials, practicals and tests and completion of assignments
-        and/or class exercises as set out in course outline. Class record of at
-        least 35%. <span class="ft13">Assessment: </span>Class record 30% and a
-        <nobr>3-hour</nobr> exam counting 70%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
-      
+close <span class="ft50">STA2005S </span>LINEAR MODELS
 begin <span class="ft50">STA2005S </span>LINEAR MODELS
+close 
+        <span class="ft50">STA2007F/S/H </span>STUDY DESIGN &amp; DATA ANALYSIS FOR
+        SCIENTISTS
+      
 begin 
         <span class="ft50">STA2007F/S/H </span>STUDY DESIGN &amp; DATA ANALYSIS FOR
         SCIENTISTS
       
 close 
-        <span class="ft13">DP requirements: </span>Satisfactory attendance of
-        lectures, tutorials, practicals and tests and completion of assignments
-        and/or class exercises as set out in course outline. Class record of at
-        least 35% . <span class="ft13">Assessment: </span>Class record 40% and a
-        <nobr>2-hour</nobr> exam counting 60%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA2007P </span>STUDY DESIGN &amp; DATA ANALYSIS FOR
+        SCIENTISTS
       
 begin 
         <span class="ft50">STA2007P </span>STUDY DESIGN &amp; DATA ANALYSIS FOR
         SCIENTISTS
       
+close 
+        <span class="ft50">STA2020F </span>APPLIED STATISTICS
+      
 begin 
         <span class="ft50">STA2020F </span>APPLIED STATISTICS
       
 close 
-        <span class="ft13">Assessment: </span>Class record 40% and a
-        <nobr>3-hour</nobr> exam counting 60%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA2020S </span>APPLIED STATISTICS
       
 begin 
         <span class="ft50">STA2020S </span>APPLIED STATISTICS
       
 close 
-        <span class="ft13">Assessment: </span>Class record 40% and a
-        <nobr>3-hour</nobr> exam counting 60%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA2030S </span>STATISTICAL THEORY
       
 begin 
         <span class="ft50">STA2030S </span>STATISTICAL THEORY
       
-close <nobr>Third-Year</nobr> Courses
+close 
+        <span class="ft50">STA3022F </span>APPLIED MULTIVARIATE DATA ANALYSIS
+      
 begin 
         <span class="ft50">STA3022F </span>APPLIED MULTIVARIATE DATA ANALYSIS
       
 close 
-        <span class="ft13">DP requirements: </span>Satisfactory attendance of
-        lectures, tutorials, practicals and tests and completion of assignments
-        and/or class exercises as set out in course outline. Class record of at
-        least 35%. <span class="ft13">Assessment: </span>Class record 30% and a
-        <nobr>3-hour</nobr> exam counting 70%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA3030F </span>STATISTICAL INFERENCE &amp; MODELLING
       
 begin 
         <span class="ft50">STA3030F </span>STATISTICAL INFERENCE &amp; MODELLING
+      
+close 
+        <span class="ft50">STA3036S </span>OPERATIONAL RESEARCH TECHNIQUES
       
 begin 
         <span class="ft50">STA3036S </span>OPERATIONAL RESEARCH TECHNIQUES
       
 close 
-        <span class="ft13">DP requirements: </span>Satisfactory attendance of
-        lectures, tutorials, practicals and tests and completion of assignments
-        and/or class exercises as set out in course outline. Class record of at
-        least 35%. <span class="ft13">Assessment: </span>Class record 30% and a
-        <nobr>3-hour</nobr> exam counting 70%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA3041F </span>STOCHASTIC PROCESSES &amp; TIME SERIES
       
 begin 
         <span class="ft50">STA3041F </span>STOCHASTIC PROCESSES &amp; TIME SERIES
       
 close 
-        <span class="ft13">DP requirements: </span>Satisfactory attendance of
-        lectures, tutorials, practicals and tests and completion of assignments
-        and/or class exercises as set out in course outline. Class record of at
-        least 35%. <span class="ft13">Assessment: </span>Class record 30% and a
-        <nobr>3-hour</nobr> exam counting 70%. Weights will be adjusted in the
-        case of missed assessments, as detailed in the course outline.
+        <span class="ft50">STA3045F </span>ADVANCED STOCHASTIC PROCESSES &amp;
+        DISTRIBUTION THEORY
       
 begin 
         <span class="ft50">STA3045F </span>ADVANCED STOCHASTIC PROCESSES &amp;
         DISTRIBUTION THEORY
       
-close Postgraduate Courses
+close 
+        <span class="ft50">STA4007W </span>STATISTICAL SCIENCES HONOURS
+      
 begin 
         <span class="ft50">STA4007W </span>STATISTICAL SCIENCES HONOURS
       
 close 
-        <span class="ft13">Assessment: </span>Each coursework module comprises
-        tests, assignments and a final examination. The relative weighting
-        placed on the year work within different modules varies between 30% and
-        50%. The final grade for STA4007W as a whole is a weighted average (3:
-        1) of the combined final marks for each coursework module (weighted by
-        the number of credits), and the individual project. The student is
-        required to obtain a mark of at least 50% in all core modules and for
-        the individual project. The student may fail at most one elective module
-        provided that a mark of at least 40% is obtained for that module. These
-        component parts of the course will be combined in a final overall mark
-        which will be reflected against the course code STA4007W, with PA (pass)
-        entered against the coursework and project codes; each of these
-        components must be passed separately for the award of the degree.
+        <span class="ft50">STA4019H </span>STATISTICAL SCIENCES FOR ACTUARIES
       
 begin 
         <span class="ft50">STA4019H </span>STATISTICAL SCIENCES FOR ACTUARIES
       
 close 
-        <span class="ft23">Assessment: </span>Each coursework module comprises
-        tests, assignments and a final examination. The relative weighting
-        placed on the year work within different modules varies between 30% and
-        50%. The final grade for STA4019H as a whole is a weighted average (5:
-        3) of the combined final marks for each coursework module (weighted by
-        the number of credits), and the individual project. In addition, the
-        student is required to obtain a mark of at least 50% in all core
-        courses, at least 40% in best 39 credits for elective modules and at
-        least 50% for the individual project. In addition the courses BUS4027W
-        and BUS4028F must also be passed for the degree to be awarded. These
-        component parts of the course will be combined in a final overall mark
-        which will be reflected against the course code STA4019H, with PA (pass)
-        entered against the coursework and project codes; each of these
-        components must be passed separately for the award of the degree.
+        <span class="ft50">STA4027Z </span>BAYESIAN COMPUTATIONAL METHODS
       
 begin 
         <span class="ft50">STA4027Z </span>BAYESIAN COMPUTATIONAL METHODS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments and Exam
+        <span class="ft50">STA4028Z </span>PORTFOLIO THEORY
       
 begin 
         <span class="ft50">STA4028Z </span>PORTFOLIO THEORY
+      
+close 
+        <span class="ft50">STA4029Z </span>ADVANCED PROBABILITY THEORY
       
 begin 
         <span class="ft50">STA4029Z </span>ADVANCED PROBABILITY THEORY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments, Class tests and Exam
+        <span class="ft50">STA5000W </span>STATISTICS DISSERTATION
       
 begin 
         <span class="ft50">STA5000W </span>STATISTICS DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found in the beginning of the handbook.
+        <span class="ft50">STA5001W </span>OPERATIONAL RESEARCH DISSERTATION
       
 begin 
         <span class="ft50">STA5001W </span>OPERATIONAL RESEARCH DISSERTATION
       
 close 
-        This course consists of an investigation of an approved topic chosen for
-        intensive study by the candidate (student), culminating in the
-        submission of a dissertation. The dissertation shall demonstrate the
-        successful completion of a programme of training in research methods, a
-        thorough understanding of the scientific principles underlying the
-        research and an appropriate acquaintance with the relevant literature.
-        It must be clearly presented and conform to the standards of the
-        department and faculty. The dissertation will usually consist of a
-        report detailing the conduct, and analysis of the results of, research
-        performed under the close guidance of a suitably qualified supervisor/s.
-        The dissertation should be <nobr>well-conceived</nobr> and acknowledge
-        earlier research in the field. It should demonstrate the ability to
-        undertake a substantial and informed piece of research, and to collect,
-        organise and analyse material. General rules for this degree may be
-        found in the beginning of the handbook.
+        <span class="ft50">STA5004W </span>ADVANCED ANALYTICS MINOR DISSERTATION
       
 begin 
         <span class="ft50">STA5004W </span>ADVANCED ANALYTICS MINOR DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">STA5010W </span>OPERATIONAL RESEARCH IN DEVELOPMENT
+        COURSEWORK
       
 begin 
         <span class="ft50">STA5010W </span>OPERATIONAL RESEARCH IN DEVELOPMENT
         COURSEWORK
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each count 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">STA5013W </span>STATISTICAL ECOLOGY DISSERTATION
       
 begin 
         <span class="ft50">STA5013W </span>STATISTICAL ECOLOGY DISSERTATION
       
 close 
-        supervisor/s. The dissertation should be <nobr>well-conceived</nobr> and
-        acknowledge earlier research in the field. It should demonstrate the
-        ability to undertake a substantial and informed piece of research, and
-        to collect, organise and analyse material. General rules for this degree
-        may be found in the beginning of the handbook.
+        <span class="ft50">STA5014Z </span>STATISTICAL METHODS
       
 begin 
         <span class="ft50">STA5014Z </span>STATISTICAL METHODS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments and tests count 50%;
-        one <nobr>3-hour</nobr> examination in November counts 50%. A
-        <nobr>sub-minimum</nobr> of 40% is required for the examination.
+        <span class="ft50">STA5058W </span>BIOSTATISTICS MINOR DISSERTATION
       
 begin 
         <span class="ft50">STA5058W </span>BIOSTATISTICS MINOR DISSERTATION
       
 close 
-        <span class="ft13">Assessment: </span>The minor dissertation must be
-        presented for formal examination. The coursework and minor dissertation
-        each counts 50% towards the degree; each must be passed separately for
-        the award of the degree.
+        <span class="ft50">STA5059Z </span>TOPICS IN BIOSTATISTICS A
       
 begin 
         <span class="ft50">STA5059Z </span>TOPICS IN BIOSTATISTICS A
+      
+close 
+        <span class="ft50">STA5060Z </span>TOPICS IN BIOSTATISTICS B
       
 begin 
         <span class="ft50">STA5060Z </span>TOPICS IN BIOSTATISTICS B
       
 close 
-        <span class="ft13">Assessment: </span>Class assignments 50%; one
-        <nobr>3-hour</nobr> examination counts 50%. A
-        <nobr>sub-minimum</nobr> of 40% is required for the examination and the
-        class assignments.
+        <span class="ft50">STA5061Z </span>BAYESIAN DECISION MODELLING
       
 begin 
         <span class="ft50">STA5061Z </span>BAYESIAN DECISION MODELLING
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 35%. Written
-        examination 65%. A subminimum of 40% in each of the assignments and
-        examination is required.
+        <span class="ft50">STA5062Z </span>CAUSAL MODELLING
       
 begin 
         <span class="ft50">STA5062Z </span>CAUSAL MODELLING
+      
+close 
+        <span class="ft50">STA5063Z </span>DESIGN OF CLINICAL TRIALS
       
 begin 
         <span class="ft50">STA5063Z </span>DESIGN OF CLINICAL TRIALS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%. Written exam 50%.
-        <nobr>Sub-minimum</nobr> of 40% in each of assignment and examination
-        component.
+        <span class="ft50">STA5064Z </span>ECOLOGICAL STATISTICS
       
 begin 
         <span class="ft50">STA5064Z </span>ECOLOGICAL STATISTICS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%. Examination 50%.
-        A subminimum of 40% in both the assignment and examination component is
-        required.
+        <span class="ft50">STA5065Z </span>FINANCIAL ECONOMETRICS
       
 begin 
         <span class="ft50">STA5065Z </span>FINANCIAL ECONOMETRICS
       
 close 
-        <span class="ft13">Assessment: </span>Assignment - 30%. Examination, 3
-        hours 70%. A subminimum of 40% in each of the assignment and examination
-        components.
+        <span class="ft50">STA5066Z </span>MATHEMATICAL MODELLING FOR INFECTIOUS
+        DISEASES
       
 begin 
         <span class="ft50">STA5066Z </span>MATHEMATICAL MODELLING FOR INFECTIOUS
         DISEASES
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 40%. Written
-        examination 60%. <nobr>Sub-minimum</nobr> of 40% for each of assignment
-        and examination component.
+        <span class="ft50">STA5067Z </span>LONGITUDINAL DATA ANALYSIS
       
 begin 
         <span class="ft50">STA5067Z </span>LONGITUDINAL DATA ANALYSIS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%. Written exam 50%.
-        <nobr>Sub-minimum</nobr> of 40% in each of assignment and examination
-        component.
+        <span class="ft50">STA5068Z </span>MACHINE LEARNING
       
 begin 
         <span class="ft50">STA5068Z </span>MACHINE LEARNING
       
 close 
-        <span class="ft13">Assessment: </span>Assignments, making up the course
-        mark, and two exams, one written and one
-        <nobr>computer-based</nobr> exam. A subminimum of 40% is required for
-        each component.
+        <span class="ft50">STA5069Z </span>MULTIVARIATE STATISTICS
       
 begin 
         <span class="ft50">STA5069Z </span>MULTIVARIATE STATISTICS
+      
+close 
+        <span class="ft50">STA5070Z </span>PROBLEM STRUCTURING AND SYSTEM
+        DYNAMICS
       
 begin 
         <span class="ft50">STA5070Z </span>PROBLEM STRUCTURING AND SYSTEM
         DYNAMICS
       
 close 
-        Dynamics section: project work (40%); written exam (60%). The two
-        sections count equally to the final grade. In each section a subminimum
-        of 40% is required in both the project and written exam.
+        <span class="ft50">STA5071Z </span>SIMULATION AND OPTIMISATION
       
 begin 
         <span class="ft50">STA5071Z </span>SIMULATION AND OPTIMISATION
       
 close 
-        50% Exam: 50%. A subminimum of 40% in each of the assignment and exam
-        component is required.
+        <span class="ft50">STA5072Z </span>SURVIVAL ANALYSIS
       
 begin 
         <span class="ft50">STA5072Z </span>SURVIVAL ANALYSIS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 50%. Written exam 50%.
-        <nobr>Sub-minimum</nobr> of 40% in each of assignment and examination
-        component.
+        <span class="ft50">STA5073Z </span>DATA SCIENCE FOR INDUSTRY
       
 begin 
         <span class="ft50">STA5073Z </span>DATA SCIENCE FOR INDUSTRY
       
 close 
-        <span class="ft13">Assessment: </span>Assignments: 50%. Examination:
-        50%. A <nobr>sub-minimum</nobr> of 40% for each of the assignment and
-        examination component will be required.
+        <span class="ft50">STA5074Z </span>DECISION MODELLING FOR PRESCRIPTIVE
+        ANALYTICS
       
 begin 
         <span class="ft50">STA5074Z </span>DECISION MODELLING FOR PRESCRIPTIVE
         ANALYTICS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments and Exam
+        <span class="ft50">STA5075Z </span>STATISTICAL AND HIGH PERFORMANCE
+        COMPUTING
       
 begin 
         <span class="ft50">STA5075Z </span>STATISTICAL AND HIGH PERFORMANCE
         COMPUTING
       
+close 
+        <span class="ft50">STA5076Z </span>SUPERVISED LEARNING
+      
 begin 
         <span class="ft50">STA5076Z </span>SUPERVISED LEARNING
       
 close 
-        <span class="ft13">Assessment: </span>Assignments and Exam.
+        <span class="ft50">STA5077Z </span>UNSUPERVISED LEARNING
       
 begin 
         <span class="ft50">STA5077Z </span>UNSUPERVISED LEARNING
       
 close 
-        <span class="ft13">Assessment: </span>Assignments and Exam.
+        <span class="ft50">STA5078Z </span>STOCHASTIC PROCESSES
       
 begin 
         <span class="ft50">STA5078Z </span>STOCHASTIC PROCESSES
       
 close 
-        <span class="ft13">Assessment: </span>Assignments, Class Test and Exam.
+        <span class="ft50">STA5079W </span>DATA SCIENCE MINOR DISSERTATION
       
 begin 
         <span class="ft50">STA5079W </span>DATA SCIENCE MINOR DISSERTATION
       
 close 
-        dissertation component may focus on methodological developments in
-        Statistical Sciences or Computer Sciences required for the analysis of a
-        large amount of data.
+        <span class="ft50">STA5086Z </span>ADVANCED PORTFOLIO THEORY
       
 begin 
         <span class="ft50">STA5086Z </span>ADVANCED PORTFOLIO THEORY
       
 close 
-        <span class="ft13">Assessment: </span>Final examination counts 60% and
-        the assignments count the remaining 40%
+        <span class="ft50">STA5090Z </span>ADVANCED TOPICS IN REGRESSION
       
 begin 
         <span class="ft50">STA5090Z </span>ADVANCED TOPICS IN REGRESSION
       
 close 
-        Linear regression and generalised regression and generalised methods
-        such as shrinkage, splines, kernel smoothing methods and wavelets. Model
-        selection and model assessment. Principal component regression, partial
-        least squares regression, mixture models and generalised additive
-        models. The course may not be offered every year.
+        <span class="ft50">STA5091Z </span><nobr>DATA-ANALYSIS</nobr> FOR
+        <nobr>HIGH-FREQUENCY</nobr> TRADING
       
 begin 
         <span class="ft50">STA5091Z </span><nobr>DATA-ANALYSIS</nobr> FOR
         <nobr>HIGH-FREQUENCY</nobr> TRADING
       
 close 
-        Market Data; Data Science of Market Microstructure; Market Structure and
-        Market Microstructure; Statistical Learning for Financial Market Data.
+        <span class="ft50">STA5092Z </span>EXPLORATORY DATA ANALYSIS
       
 begin 
         <span class="ft50">STA5092Z </span>EXPLORATORY DATA ANALYSIS
       
 close 
-        <span class="ft13">Assessment: </span>Assignments 70%, Exam 30%
+        <span class="ft50">STA5093W </span>DATA SCIENCE MINOR DISSERTATION
       
 begin 
         <span class="ft50">STA5093W </span>DATA SCIENCE MINOR DISSERTATION
       
 close 
-        The research component of the degree is based on a 60 credit
-        dissertation. The topic of the research will be based on an analysis of
-        large data sets from Physics, Astronomy, Medicine, Finance or other
-        areas of application using the methodology learnt in coursework
-        component.
+        <span class="ft50">STA6001W </span>STATISTICAL SCIENCES THESIS
       
 begin 
         <span class="ft50">STA6001W </span>STATISTICAL SCIENCES THESIS
+      
+close 
+        <span class="ft50">STA6002W </span>STATISTICAL ECOLOGY THESIS
       
 begin 
         <span class="ft50">STA6002W </span>STATISTICAL ECOLOGY THESIS
       
 close 
-        J Kew<span class="ft29">, </span>BCom HDE MBA
-        <span class="ft29">Cape Town</span>
+        <span class="ft50">ACC1006F/S </span>FINANCIAL ACCOUNTING
       
 begin 
         <span class="ft50">ACC1006F/S </span>FINANCIAL ACCOUNTING
       
 close 
-        L Pitt, HDE <span class="ft29">Cape Town </span>BCom (Hons) (Eco)
-        <span class="ft29">Unisa </span>BCom (Hons) (ES)
-        <span class="ft29">UJ </span>BB&amp;A (Hons) MBA S<span class="ft29">tellenbosch </span>MCom <span class="ft29">Cape Town </span>DBL
-        <span class="ft29">Unisa</span>
+        <span class="ft50">FTX1005F/S </span>MANAGERIAL FINANCE
       
 begin 
         <span class="ft50">FTX1005F/S </span>MANAGERIAL FINANCE
       
 close 
-        M Tanner BEng(Hons) <span class="ft29">Mauritius </span>MCom PhD
-        <span class="ft29">Cape Town</span>
+        <span class="ft50">INF2006F </span>BUSINESS INTELLIGENCE AND ANALYTICS
       
 begin 
         <span class="ft50">INF2006F </span>BUSINESS INTELLIGENCE AND ANALYTICS
       
 close 
-        <span class="ft13">Assessment: </span>BI software project 30%, Classwork
-        30%, Final examination 40%. <nobr>Sub-minimum</nobr> of 40% for the
-        final examination.
+        <span class="ft50">INF2009F </span>SYSTEMS ANALYSIS
       
 begin 
         <span class="ft50">INF2009F </span>SYSTEMS ANALYSIS
       
 close 
-        <span class="ft13">Assessment: </span>The final grade is derived from
-        results of the Coursework (Formative Assessment: 35% + Summative
-        Assessment 25%) and the Final Examination (40%).
-        <nobr>Sub-minimum</nobr> of 40% for the final examination.
+        <span class="ft50">INF2011S </span>SYSTEMS DESIGN &amp; DEVELOPMENT
       
 begin 
         <span class="ft50">INF2011S </span>SYSTEMS DESIGN &amp; DEVELOPMENT
       
 close 
-        <span class="ft13">Assessment: </span>The final grade is derived from
-        the following deliverables: Practical Workshops (10%), Theory workshops
-        (5%), Quizzes (10%), <nobr>Mid-Semester</nobr> Test (10%), System
-        Development Project (25%), Final Examination (40%).
+        <span class="ft50">INF3011F </span>I.T. PROJECT MANAGEMENT
       
 begin 
         <span class="ft50">INF3011F </span>I.T. PROJECT MANAGEMENT
       
 close 
-        <span class="ft13">Assessment: </span>Classwork 60% (workshops, class
-        exercises, test and a group project), final examination 40%.
-        <nobr>Sub-minimum</nobr> of 40% for the final examination.
+        <span class="ft50">INF3014F </span>ELECTRONIC COMMERCE
       
 begin 
         <span class="ft50">INF3014F </span>ELECTRONIC COMMERCE
       
 close 
-        <span class="ft23">220</span><span class="ft134">COURSES OFFERED BY DEPARTMENTS IN OTHER FACULTIES TOWARDS SCIENCE
-          DEGREES</span>
+        <span class="ft50">APG5089S </span>CURATING URBAN REGULATION
       
 begin 
         <span class="ft50">APG5089S </span>CURATING URBAN REGULATION
       
 close 
-        F Nicolls, MSc(Eng) PhD <span class="ft29">Cape Town</span>
+        <span class="ft50">EEE2049W </span>INTRODUCTION TO ELECTRICAL AND
+        ELECTRONIC ENGINEERING: SCIENCE STUDENTS
       
 begin 
         <span class="ft50">EEE2049W </span>INTRODUCTION TO ELECTRICAL AND
         ELECTRONIC ENGINEERING: SCIENCE STUDENTS
       
 close 
-        COURSES OFFERED BY DEPARTMENTS IN OTHER FACULTIES TOWARDS SCIENCE
-        DEGREES 221
+        <span class="ft50">EEE2050F </span>EMBEDDED SYSTEMS I FOR SCIENCE
+        STUDENTS
       
 begin 
         <span class="ft50">EEE2050F </span>EMBEDDED SYSTEMS I FOR SCIENCE
         STUDENTS
       
 close 
-        <span class="ft13">Assessment: </span>Please refer to the official
-        course handout document regarding the assessment criteria for this
-        course.
+        <span class="ft50">EEE3095S </span>EMBEDDED SYSTEMS II FOR SCIENCE
+        STUDENTS
       
 begin 
         <span class="ft50">EEE3095S </span>EMBEDDED SYSTEMS II FOR SCIENCE
         STUDENTS
       
 close 
-        assignments or tutorials 5%. Final examinations (50%) as follows: Theory
-        examination 30%, practical examination 20%. A subminimum of 40% is
-        required for the theory and practical examination to pass this course.
-        Supplementary examinations, in the form of written, practical or oral
-        assessment, may be offered to students whose overall score is
-        <nobr>45-49%.</nobr> An oral examination may be required in the case of
-        selected students.
+        <span class="ft50">HUB2021S </span>INTEGRATED ANATOMICAL AND
+        PHYSIOLOGICAL SCIENCES PART B
       
 begin 
         <span class="ft50">HUB2021S </span>INTEGRATED ANATOMICAL AND
         PHYSIOLOGICAL SCIENCES PART B
       
 close 
-        <span class="ft13">Assessment: </span>The final mark comprises class
-        tests (30%); practicals, assignments and tutorials (20%); and final
-        examinations (50%), consisting of a written theory exam (30%) and a
-        practical (20%). A subminimum of 40% is required for the theory and
-        practical examination to pass this course. Supplementary examinations,
-        in the form of written, practical or oral assessment, may be offered to
-        students whose overall score is between 45% and 49%. An oral examination
-        may be required in the case of selected students.
+        <span class="ft50">HUB3006F </span>APPLIED HUMAN BIOLOGY
       
 begin 
         <span class="ft50">HUB3006F </span>APPLIED HUMAN BIOLOGY
       
 close 
-        <span class="ft13">Assessment: </span>Class tests (30%);
-        assignments/seminar presentation (5%); practicals (15%); and
-        examinations (written theory and practical theory) (50%). A subminimum
-        of 40% is required for the theory and practical examinations to pass
-        this course. An oral examination may be required in the case of selected
-        students.
+        <span class="ft50">HUB3007S </span>HUMAN NEUROSCIENCES
       
 begin 
         <span class="ft50">HUB3007S </span>HUMAN NEUROSCIENCES
       
 close 
-        DT Hendricks, BScHons (Medicine) PhD <span class="ft29">Cape Town</span>
+        <span class="ft50">IBS5004Z </span>BIOINFORMATICS FOR
+        <nobr>HIGH-THROUGHPUT</nobr> BIOLOGY
       
 begin 
         <span class="ft50">IBS5004Z </span>BIOINFORMATICS FOR
         <nobr>HIGH-THROUGHPUT</nobr> BIOLOGY
       
 close 
-        This course is aimed to introduce students to bioinformatics techniques
-        related to processing, analysis and interpretation of
-        <nobr>high-throughput</nobr> biological data. It will cover the analysis
-        of next generation sequence data of different types (metagenomic,
-        <nobr>RNA-Seq</nobr> and full genome); statistical analysis of NGS in
-        relation to metadata associated with it; phylogenetic analysis of
-        sequence data; and medical population genetics from NGS or array data.
-        The students who complete the course will be skilled both in handling
-        big biological data sets, and in their downstream interpretation.
+        <span class="ft50">IBS5005W </span>DATA SCIENCE MINOR DISSERTATION
       
 begin 
         <span class="ft50">IBS5005W </span>DATA SCIENCE MINOR DISSERTATION
       
 close 
-        P de Vos, BCom LLB LLM <span class="ft29">Stell </span>LLM
-        <span class="ft29">Columbia </span>LLD
-        <span class="ft29">UWC </span>(Claude Leon Foundation Chair in
-        Constitutional Governance)
+        <span class="ft50">PBL5045S </span>ENVIRONMENTAL LAW FOR
+        <nobr>NON-LAWYERS</nobr>
       
 begin 
         <span class="ft50">PBL5045S </span>ENVIRONMENTAL LAW FOR

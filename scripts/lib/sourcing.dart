@@ -20,13 +20,6 @@ List<Extractable> getCoursesInPages(
           .toUpperCase()
           .contains("DEPARTMENTS IN THE FACULTY");
     },
-    shouldEnd: (children, index) {
-      if (index + 1 == children.length) return false;
-      final nextElement = children[index + 1];
-      final childElements = nextElement.getElementsByTagName("span");
-
-      return childElements.isNotEmpty && childElements[0].className == "ft50";
-    },
   );
 
   return sourcer.begin(doc, from: from, to: to);
@@ -61,12 +54,10 @@ typedef ShouldDoWhatCallback = bool Function(
 class Sourcer {
   final ShouldDoWhatCallback shouldBegin;
   final ShouldDoWhatCallback shouldIgnore;
-  final ShouldDoWhatCallback shouldEnd;
 
   Sourcer({
     required this.shouldBegin,
     required this.shouldIgnore,
-    required this.shouldEnd,
   });
 
   List<Extractable> begin(Document doc, {required int from, required int to}) {
@@ -81,22 +72,18 @@ class Sourcer {
           thisElementIndex++) {
         final element = page.children[thisElementIndex];
 
-        // At the moment, even though I still don't understand why, some courses
-        // are not extracted when we do not do the null check.
         if (shouldBegin(page.children, thisElementIndex)) {
-          print("begin ${page.children[thisElementIndex].innerHtml}");
-          extractable = Extractable([element]);
-        }
-
-        if (extractable != null &&
-            !shouldIgnore(page.children, thisElementIndex)) {
-          extractable.elements.add(element);
-
-          if (shouldEnd(page.children, thisElementIndex)) {
+          if (extractable != null) {
             print("close ${page.children[thisElementIndex].innerHtml}");
             out.add(extractable);
             extractable = null;
           }
+
+          print("begin ${page.children[thisElementIndex].innerHtml}");
+          extractable = Extractable([element]);
+        } else if (extractable != null &&
+            !shouldIgnore(page.children, thisElementIndex)) {
+          extractable.elements.add(element);
         }
       }
     }

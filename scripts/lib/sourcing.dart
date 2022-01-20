@@ -11,11 +11,7 @@ List<Extractable> getCoursesInPages(
       final element = children[index];
       final childElements = element.getElementsByTagName("span");
 
-      if (childElements.isEmpty || childElements[0].className != "ft50") {
-        return false;
-      }
-
-      return true;
+      return childElements.isNotEmpty && childElements[0].className == "ft50";
     },
     shouldIgnore: (children, index) {
       final element = children[index];
@@ -29,11 +25,7 @@ List<Extractable> getCoursesInPages(
       final nextElement = children[index + 1];
       final childElements = nextElement.getElementsByTagName("span");
 
-      if (childElements.isEmpty || childElements[0].className != "ft50") {
-        return false;
-      }
-
-      return true;
+      return childElements.isNotEmpty && childElements[0].className == "ft50";
     },
   );
 
@@ -79,16 +71,20 @@ class Sourcer {
 
   List<Extractable> begin(Document doc, {required int from, required int to}) {
     final List<Extractable> out = [];
+
+    Extractable? extractable;
     for (int pageNumber = from; pageNumber <= to; pageNumber++) {
       final page = doc.getElementById("page_$pageNumber");
 
-      Extractable? extractable;
       for (int thisElementIndex = 0;
           thisElementIndex < page!.children.length;
           thisElementIndex++) {
         final element = page.children[thisElementIndex];
 
+        // At the moment, even though I still don't understand why, some courses
+        // are not extracted when we do not do the null check.
         if (shouldBegin(page.children, thisElementIndex)) {
+          print("begin ${page.children[thisElementIndex].innerHtml}");
           extractable = Extractable([element]);
         }
 
@@ -97,6 +93,7 @@ class Sourcer {
           extractable.elements.add(element);
 
           if (shouldEnd(page.children, thisElementIndex)) {
+            print("close ${page.children[thisElementIndex].innerHtml}");
             out.add(extractable);
             extractable = null;
           }

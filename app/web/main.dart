@@ -1,9 +1,9 @@
 import 'dart:html';
-
 import 'courses.dart';
 
-void main() {
-  initApp();
+// TODO: Enable analytics
+Future<void> main() async {
+  initApp(null);
 }
 
 void clearCoursesView() {
@@ -11,18 +11,28 @@ void clearCoursesView() {
 }
 
 late InputElement inputElement;
-void initApp() {
+void initApp(dynamic analytics) {
+  analytics?.logAppOpen();
+
   clearCoursesView();
+
   final query = getQueryFromUrl();
+  analytics?.logEvent(name: "launch_query", parameters: {
+    "query": query,
+  });
+
   querySelector("#courses")?.children.add(getCoursesHtmlAsDiv(query));
 
   inputElement = querySelector("#searchQueryInput")! as InputElement;
   inputElement.value = query;
   inputElement.addEventListener("input", (event) {
+    final search = inputElement.value!;
+    analytics?.logEvent(name: "search", parameters: {
+      "query": search,
+    });
+
     clearCoursesView();
-    querySelector("#courses")
-        ?.children
-        .add(getCoursesHtmlAsDiv(inputElement.value!));
+    querySelector("#courses")?.children.add(getCoursesHtmlAsDiv(search));
   });
 
   querySelector("#shareButton")?.onClick.listen((_) {
@@ -31,16 +41,34 @@ void initApp() {
 
     Future<void> exec() async {
       try {
-        await window.navigator.clipboard!.writeText(link);
-      } catch (e) {
-        inputElement.focus();
-        inputElement.select();
-        window.document.execCommand('copy');
-      }
+        await window.navigator.share({
+          "title": "Course Share",
+          "text": "See course information on whichcourse",
+          "url": link,
+        });
 
-      window.alert(
-        "Copied course link $link to clipboard. Share the link with friends 😇",
-      );
+        analytics?.logEvent(name: "share", parameters: {
+          "link": link,
+          "method": "navigator.share",
+        });
+      } catch (e) {
+        try {
+          await window.navigator.clipboard!.writeText(link);
+        } catch (e) {
+          inputElement.focus();
+          inputElement.select();
+          window.document.execCommand('copy');
+        }
+
+        window.alert(
+          "Copied course link $link to clipboard. Share the link with friends 😇",
+        );
+
+        analytics?.logEvent(name: "share", parameters: {
+          "link": link,
+          "method": "clipboard",
+        });
+      }
     }
 
     exec();

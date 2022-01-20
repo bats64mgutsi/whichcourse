@@ -9,8 +9,31 @@
     <title>whichcourse</title>
     <link rel="stylesheet" href="styles.css" />
     <script defer src="main.dart.js"></script>
-
     <link rel="stylesheet" href="handbook_styles.css" />
+
+    <script type="module">
+      // Import the functions you need from the SDKs you need
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.3/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.3/firebase-analytics.js";
+      // TODO: Add SDKs for Firebase products that you want to use
+      // https://firebase.google.com/docs/web/setup#available-libraries
+
+      // Your web app's Firebase configuration
+      // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+      const firebaseConfig = {
+        apiKey: "AIzaSyCEKXa-SSkGVFxOGQkSJkr_KIRJixtzwX0",
+        authDomain: "personal-portfolio-50f51.firebaseapp.com",
+        projectId: "personal-portfolio-50f51",
+        storageBucket: "personal-portfolio-50f51.appspot.com",
+        messagingSenderId: "1089554082340",
+        appId: "1:1089554082340:web:64fd83df0dca55446286b1",
+        measurementId: "G-EG1CJ0ZCNX",
+      };
+
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      const analytics = getAnalytics(app);
+    </script>
 
     <link
       rel="stylesheet"
@@ -51,7 +74,9 @@
             placeholder="e.g CSC1015"
           />
           <span class="input-group-btn">
-            <button class="btn btn-default" type="button" id="shareButton">Share</button>
+            <button class="btn btn-default" type="button" id="shareButton">
+              Share
+            </button>
           </span>
         </div>
       </div>

@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'package:dart_style/dart_style.dart';
+import 'package:html/dom.dart';
 import 'package:html/parser.dart';
 import 'package:scripts/sourcing.dart';
 
@@ -7,17 +8,19 @@ import 'package:scripts/sourcing.dart';
 /// All courses it lists. The pdf was converted to html using
 /// https://pdf.online/convert-pdf-to-html
 void main() {
-  final out = generateSourcesFile();
-  File("/Users/batandwamgutsi/Desktop/whichcourse/app/constants/courses.dart")
-      .writeAsStringSync(out);
-}
-
-String generateSourcesFile() {
   final html = File(
           "/Users/batandwamgutsi/Desktop/whichcourse/scripts/data/2022_SCI_Handbook.html")
       .readAsStringSync();
-
   final doc = parse(html);
+
+  File("/Users/batandwamgutsi/Desktop/whichcourse/app/web/courses.dart")
+      .writeAsStringSync(generateSourcesFile(doc));
+
+  File("/Users/batandwamgutsi/Desktop/whichcourse/app/web/handbook_styles.css")
+      .writeAsStringSync(getHandbookStyles(doc));
+}
+
+String generateSourcesFile(Document doc) {
   final out = StringBuffer("/// Auto generated. Do not modify by hand.\n\n");
   out.write("const courses = {\n");
 

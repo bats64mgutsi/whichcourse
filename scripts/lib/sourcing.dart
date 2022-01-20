@@ -1,5 +1,9 @@
 import 'package:html/dom.dart';
 
+String getHandbookStyles(Document doc) {
+  return doc.getElementsByTagName("style")[0].innerHtml;
+}
+
 List<Extractable> getCoursesInPages(
     {required int from, required int to, required Document doc}) {
   final sourcer = Sourcer(

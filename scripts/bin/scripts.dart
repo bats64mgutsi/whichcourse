@@ -27,8 +27,7 @@ String generateSourcesFile(Document doc) {
   for (final extractable
       in getCoursesInPages(from: 55, to: 227, doc: doc).toSet().toList()) {
     final courseName = extractable.firstCourseName();
-    final html =
-        extractable.html.replaceAll('"', '\\"').replaceAll('\$', '\\\$');
+    final html = extractable.html.replaceAll('\$', '\\\$');
 
     out.write('"$courseName": """$html""",\n');
   }

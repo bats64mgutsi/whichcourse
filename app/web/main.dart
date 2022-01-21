@@ -52,13 +52,7 @@ void initApp(dynamic analytics) {
           "method": "navigator.share",
         });
       } catch (e) {
-        try {
-          await window.navigator.clipboard!.writeText(link);
-        } catch (e) {
-          inputElement.focus();
-          inputElement.select();
-          window.document.execCommand('copy');
-        }
+        await window.navigator.clipboard!.writeText(link);
 
         window.alert(
           "Copied course link $link to clipboard. Share the link with friends 😇",
